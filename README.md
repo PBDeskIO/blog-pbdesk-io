@@ -1,2 +1,3 @@
-# blog-pbdesk-io
-blog.PBDesk.io
+# Pinal Bhatt's Blog
+
+[Describe the project.]
