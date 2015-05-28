@@ -10,21 +10,25 @@ layout: default
             <li>Category Archives </li>
             <li><a href="/categories">All Categories</a></li>
         </ul>
-        <ul id="filters1">
-            <li><a href="/categories" data-filter="*" class="btn btn-default">All</a></li>
-            {% for cat in site.categories %}
-            <li><a href="/category/{{cat[0]}}"  class="btn btn-default">{{ cat[0] }}</a></li>
-            {% endfor %}
-        </ul>
+
         <div class="entry padd-zero">
             <div class="padd">
                 <!-- Page title -->
                 <h2 style="text-transform: capitalize">{{ page.category }}</h2>
             </div>
         </div>
+
+
     </div>
 
     <div class="row">
         {{content}}
     </div>
+
+    <ul id="filters1">
+        <li><a href="/categories" data-filter="*" class="btn btn-default">All</a></li>
+        {% for cat in site.categories %}
+        <li><a href="/category/{{cat[0]}}"  class="btn btn-default">{{ cat[0] }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
