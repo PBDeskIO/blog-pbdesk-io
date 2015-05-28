@@ -48,3 +48,6 @@ page_gen:
     dir: 'TechNews'
 
 buildDate: 2015-04-22 01:00:01.000000000 -05:00
+
+category_archive:
+  path: category
