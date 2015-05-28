@@ -65,11 +65,11 @@ gulp.task("images", function () {
 });
 
 // Copy over fonts to the "site" directory
-/*gulp.task("fonts", function () {
-  return gulp.src("src/assets/fonts/!**")
+gulp.task("fonts", function () {
+ /* return gulp.src("src/assets/fonts/!**")
     .pipe(gulp.dest("site/assets/fonts"))
-    .pipe($.size({ title: "fonts" }));
-});*/
+    .pipe($.size({ title: "fonts" }));*/
+});
 
 // Copy xml and txt files to the "site" directory
 gulp.task("copy", function () {
@@ -89,7 +89,7 @@ gulp.task("html", ["styles"], function () {
     // Minify CSS
     .pipe($.if("*.css", $.minifyCss()))
     // Start cache busting the files
-    .pipe($.revAll({ ignore: [".eot", ".svg", ".ttf", ".woff"] }))
+    //.pipe($.revAll({ ignore: [".eot", ".svg", ".ttf", ".woff"] }))
     .pipe(assets.restore())
     // Conctenate your files based on what you specified in _layout/header.html
     .pipe($.useref())

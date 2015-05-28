@@ -8,7 +8,7 @@ url: http://blog.pbdesk.io
 future: false
 show_drafts: false
 # Gives you more accurate related posts
-lsi: true
+lsi: false
 # Removes the upper limit for posts generated
 limit_posts: 0
 
