@@ -19,16 +19,8 @@
             appFolder + '_site/**/*.html'
         ],
         imagesDest: './app/_site/img',
-        cssBuildFolder: buildFolder + 'css/',
-        cssFiles: [
-            appFolder + '/css/prettyPhoto.css',
-            appFolder + '/css/style.css',
-            appFolder + 'css/custom.css'
-        ],
-        cssTheme: [
-            appFolder + 'css/' + currentTheme + '.css'
-        ],
         cssBundle: [
+            appFolder  +  'css/flexslider.css',
             appFolder  +  'css/prettyPhoto.css',
             appFolder  +  'css/' + currentTheme + '.css',
             appFolder  +  'css/style.css',

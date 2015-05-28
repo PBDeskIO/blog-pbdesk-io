@@ -60,6 +60,9 @@
     color: wheat;
     /*text-shadow: #ccc 1px 1px;*/
 }
+.features{
+    border-top: none;
+}
 .features-item h4
 {
     font-size: 18px;
