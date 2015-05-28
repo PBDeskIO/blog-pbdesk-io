@@ -35,9 +35,9 @@ gulp.task("jekyll-rebuild", ["jekyll:dev"], function () {
 // don"t end up publishing your drafts or future posts
 gulp.task("jekyll:prod", $.shell.task("jekyll build --config _config.yml,_config.build.yml"));
 
-// Compiles the SASS files and moves them into the "assets/stylesheets" directory
+
 gulp.task("styles", function () {
-  // Looks at the style.scss file for what to include and creates a style.css file
+
   return gulp
       .src(configs.cssBundle)
       .pipe($.print())
@@ -46,9 +46,7 @@ gulp.task("styles", function () {
       .pipe($.concat('bundle.css'))
       .pipe(gulp.dest(configs.cssBundleDest))
       .pipe(gulp.dest("serve/css/"))
-    // Outputs the size of the CSS file
       .pipe($.size({title: "styles"}))
-    // Injects the CSS changes to your browser since Jekyll doesn"t rebuild the CSS
       .pipe(reload({stream: true}));
 });
 
@@ -67,11 +65,11 @@ gulp.task("images", function () {
 });
 
 // Copy over fonts to the "site" directory
-gulp.task("fonts", function () {
-  return gulp.src("src/assets/fonts/**")
+/*gulp.task("fonts", function () {
+  return gulp.src("src/assets/fonts/!**")
     .pipe(gulp.dest("site/assets/fonts"))
     .pipe($.size({ title: "fonts" }));
-});
+});*/
 
 // Copy xml and txt files to the "site" directory
 gulp.task("copy", function () {

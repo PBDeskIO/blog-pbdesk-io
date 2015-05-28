@@ -11,7 +11,7 @@
             './server/**/*.js'
         ],
         imagesSrc:[
-            './app/img/**/*.*'
+            appFolder  +  'img'
         ],
         appFolder: appFolder,
         buildFolder: buildFolder,
