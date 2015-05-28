@@ -17,8 +17,6 @@ author:
   bio: always on learning ramp
   twitter: http://twitter.com/PBDesk
 
-# general setting for Jekyll
-googleAnalytics: UA-XXXXX-X
 
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
@@ -30,7 +28,7 @@ lsi: false
 limit_posts: 10
 
 # Permalink structure and pagination options
-relative_permalinks: true
+
 permalink: /:categories/:title
 paginate: 10
 paginate_path: 'page:num'
