@@ -1,4 +1,3 @@
-// Generated on 2015-05-28 using generator-jekyllized 0.7.3
 "use strict";
 
 var gulp = require("gulp");
@@ -15,6 +14,8 @@ var merge = require("merge-stream");
 var reload = browserSync.reload;
 // And define a variable that BrowserSync uses in it"s function
 var bs;
+
+var configs = require("./gulp/gulp.config");
 
 // Deletes the directory that is used to serve the site during development
 gulp.task("clean:dev", del.bind(null, ["serve"]));
@@ -37,17 +38,18 @@ gulp.task("jekyll:prod", $.shell.task("jekyll build --config _config.yml,_config
 // Compiles the SASS files and moves them into the "assets/stylesheets" directory
 gulp.task("styles", function () {
   // Looks at the style.scss file for what to include and creates a style.css file
-  return gulp.src("src/assets/scss/style.scss")
-    .pipe($.sass())
-    // AutoPrefix your CSS so it works between browsers
-    .pipe($.autoprefixer("last 1 version", { cascade: true }))
-    // Directory your CSS file goes to
-    .pipe(gulp.dest("src/assets/stylesheets/"))
-    .pipe(gulp.dest("serve/assets/stylesheets/"))
+  return gulp
+      .src(configs.cssBundle)
+      .pipe($.print())
+      .pipe($.autoprefixer("last 5 version", {browsers: ['last 5 version', '> 5%'], cascade: true }))
+      .pipe($.csso())
+      .pipe($.concat('bundle.css'))
+      .pipe(gulp.dest(configs.cssBundleDest))
+      .pipe(gulp.dest("serve/css/"))
     // Outputs the size of the CSS file
-    .pipe($.size({title: "styles"}))
+      .pipe($.size({title: "styles"}))
     // Injects the CSS changes to your browser since Jekyll doesn"t rebuild the CSS
-    .pipe(reload({stream: true}));
+      .pipe(reload({stream: true}));
 });
 
 // Optimizes the images that exists
