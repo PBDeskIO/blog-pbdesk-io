@@ -5,8 +5,8 @@
     <description>Learning endeavor for ever...from the desk of Pinal Bhatt | blog.PBDesk.io</description>
     <link>http://blog.pbdesk.io/</link>
     <atom:link href="http://blog.pbdesk.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2015 22:53:29 -0400</pubDate>
-    <lastBuildDate>Thu, 28 May 2015 22:53:29 -0400</lastBuildDate>
+    <pubDate>Fri, 29 May 2015 12:00:41 -0400</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 12:00:41 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -122,7 +122,7 @@
         <link>http://blog.pbdesk.io/programming/c-code-snippet-send-email</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/c-code-snippet-send-email</guid>
         
-        <category>C#</category>
+        <category>CSharp</category>
         
         <category>CodeSnippet</category>
         
@@ -349,9 +349,9 @@ Tweets about #NodeJS from:PBDesk
         <link>http://blog.pbdesk.io/microsoft/net-4-5-vs2012-windows-8-released</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/microsoft/net-4-5-vs2012-windows-8-released</guid>
         
-        <category>.Net</category>
+        <category>DotNet</category>
         
-        <category>.Net45</category>
+        <category>DotNet45</category>
         
         <category>ASP.Net</category>
         
@@ -402,15 +402,15 @@ Tweets about #NodeJS from:PBDesk
         <title>INotifyPropertyChanged - The .NET 4.5 Way. CallerMemberName</title>
         <description>&amp;nbsp; Here are few links describing how to use INotifyPropertyChanged interface in .Net Framework 4.5 using new “Caller Information” Attributes: CallerFilePathAttribute, CallerLineNumberAttribute, and CallerMemberNameAttribute MSDN: Caller Information (C# and Visual...</description>
         <pubDate>Tue, 07 Aug 2012 09:43:00 -0400</pubDate>
-        <link>http://blog.pbdesk.io/.net/inotifypropertychanged-the-net-4-5-way-callermembername</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/inotifypropertychanged-the-net-4-5-way-callermembername</guid>
+        <link>http://blog.pbdesk.io/dotnet/inotifypropertychanged-the-net-4-5-way-callermembername</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/inotifypropertychanged-the-net-4-5-way-callermembername</guid>
         
-        <category>.Net45</category>
+        <category>DotNet45</category>
         
-        <category>C#</category>
+        <category>CSharp</category>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -448,11 +448,11 @@ Tweets about #NodeJS from:PBDesk
         <title>C# Extension Methods – I Love Them!!!!</title>
         <description>Extension Methods - Yet another cool feature brought into .Net realm with C# 3 and VB.Net 9. Extension methods allow you to &amp;quot;add&amp;quot; methods to existing types without creating a...</description>
         <pubDate>Fri, 10 Feb 2012 12:08:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/c-extension-methods-i-love-them</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-extension-methods-i-love-them</guid>
+        <link>http://blog.pbdesk.io/dotnet/c-extension-methods-i-love-them</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/c-extension-methods-i-love-them</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -460,15 +460,15 @@ Tweets about #NodeJS from:PBDesk
         <title>C# Generic String Parser Extension Method</title>
         <description>Here is an extension method for strings in C# for parsing stings to other types. Code at Gist [gist id = &quot;af652fbca4e543bc3c23&quot; file = &quot;GenericStringParserExtensionMethod.cs&quot; ] [emc2alert type=&quot;success&quot; style=&quot;normal&quot; position=&quot;top&quot;...</description>
         <pubDate>Wed, 01 Feb 2012 21:50:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/programming/c-generic-string-parser-extension-method</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/programming/c-generic-string-parser-extension-method</guid>
+        <link>http://blog.pbdesk.io/dotnet/programming/c-generic-string-parser-extension-method</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/programming/c-generic-string-parser-extension-method</guid>
         
-        <category>.Net</category>
+        <category>DotNet</category>
         
-        <category>C#</category>
+        <category>CSharp</category>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>programming</category>
         
@@ -478,11 +478,11 @@ Tweets about #NodeJS from:PBDesk
         <title>Whats coming up new with .Net 4.5 ?</title>
         <description>Microsoft has already announced developer preview for .Net Framework 4.5 which is expected to come with ASP.Net 4.5, ASP.Net MVC 4, ASP.NET Web Pages 2,Visual Studio 11 and lot more...</description>
         <pubDate>Tue, 29 Nov 2011 11:30:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/microsoft/whats-coming-up-new-with-net-4-5</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/microsoft/whats-coming-up-new-with-net-4-5</guid>
+        <link>http://blog.pbdesk.io/dotnet/microsoft/whats-coming-up-new-with-net-4-5</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/microsoft/whats-coming-up-new-with-net-4-5</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>microsoft</category>
         
@@ -587,11 +587,11 @@ http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html
         <title>ASP.Net Open Source CMS</title>
         <description>Umbraco Rocks!!! Since long I was thinking of writhing this post. I have been blogging since 2007 at blog.PBDesk.com powered by Google Blogger. But blogs have there own limitations, I...</description>
         <pubDate>Tue, 18 Jan 2011 14:27:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/asp.net/cms/asp-net-open-source-cms</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/cms/asp-net-open-source-cms</guid>
+        <link>http://blog.pbdesk.io/dotnet/asp.net/cms/asp-net-open-source-cms</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/asp.net/cms/asp-net-open-source-cms</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>asp.net</category>
         
@@ -731,11 +731,11 @@ http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html
         <title>Visual Studio 2010 RC is now available</title>
         <description>Finally, long awaited Microsoft Visual Studio 2010 Release Candidate with .Net Framework 4.0 and ASP.Net 4.0 was made publically available on 10th Feb, 2010. I downloaded and installed it successfully,...</description>
         <pubDate>Thu, 11 Feb 2010 23:45:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/asp.net/visual-studio-2010-rc-is-now-available</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/visual-studio-2010-rc-is-now-available</guid>
+        <link>http://blog.pbdesk.io/dotnet/asp.net/visual-studio-2010-rc-is-now-available</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/asp.net/visual-studio-2010-rc-is-now-available</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>asp.net</category>
         
@@ -745,11 +745,11 @@ http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html
         <title>Null Object Design Pattern</title>
         <description>Null Object design pattern – alternatively returning null object instead of ‘Null’ to avoid repeatedly checking for null values within code. In the object oriented programming realm it&#39;s very common...</description>
         <pubDate>Wed, 03 Feb 2010 14:35:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/design%20patterns/null-object-design-pattern</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/design%20patterns/null-object-design-pattern</guid>
+        <link>http://blog.pbdesk.io/dotnet/design%20patterns/null-object-design-pattern</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/design%20patterns/null-object-design-pattern</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>design patterns</category>
         
@@ -760,17 +760,17 @@ http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html
         <description>[wp_rss_multi_importer category=&quot;5&quot;]
 </description>
         <pubDate>Fri, 13 Nov 2009 17:39:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/dotnet/c%23/c-news-updates</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/c%23/c-news-updates</guid>
+        <link>http://blog.pbdesk.io/dotnet/csharp/c-news-updates</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/csharp/c-news-updates</guid>
         
-        <category>C#</category>
+        <category>CSharp</category>
         
         <category>TechNews</category>
         
         
         <category>dotnet</category>
         
-        <category>c#</category>
+        <category>csharp</category>
         
       </item>
     
@@ -778,11 +778,11 @@ http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html
         <title>Facebook Membership Provider</title>
         <description>Introduction One of the great new features introduced in ASP.NET 2.0 was the use of the &amp;quot;Provider Model&amp;quot; which provides flexibility and extensibility to your Web applications. Using the provider...</description>
         <pubDate>Fri, 13 Nov 2009 12:27:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/asp.net/facebook/facebook-membership-provider</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/facebook/facebook-membership-provider</guid>
+        <link>http://blog.pbdesk.io/dotnet/asp.net/facebook/facebook-membership-provider</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/asp.net/facebook/facebook-membership-provider</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>asp.net</category>
         
@@ -995,11 +995,11 @@ XML                                                                             
         <title>Learning F#</title>
         <description>F# - a new buzz word in the market. With .Net Framework 4.0 Microsoft is also planning to release F# - a multi-paradigm, strongly typed,&amp;nbsp; functional programming language. I have...</description>
         <pubDate>Tue, 16 Jun 2009 13:51:00 -0400</pubDate>
-        <link>http://blog.pbdesk.io/.net/learning-f</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/learning-f</guid>
+        <link>http://blog.pbdesk.io/dotnet/learning-f</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/learning-f</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1097,11 +1097,11 @@ Twitter Updates
         <title>C# Tutorial</title>
         <description>Welcome to C# Tutorials. This is an attempt to provide the systematic &amp; strategic learning track/guide for the candidates looking forward to learn and master C#. Table of contents(C# 3.0...</description>
         <pubDate>Tue, 17 Mar 2009 06:24:00 -0400</pubDate>
-        <link>http://blog.pbdesk.io/.net/c-tutorial</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-tutorial</guid>
+        <link>http://blog.pbdesk.io/dotnet/c-tutorial</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/c-tutorial</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1109,11 +1109,11 @@ Twitter Updates
         <title>Learning Pathway for .Net</title>
         <description>Just as in life, you need to know at least one language of communication for your survival, to swim the ocean of .Net you need to know at least one...</description>
         <pubDate>Tue, 17 Mar 2009 06:13:00 -0400</pubDate>
-        <link>http://blog.pbdesk.io/.net/learning-pathway-for-net</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/learning-pathway-for-net</guid>
+        <link>http://blog.pbdesk.io/dotnet/learning-pathway-for-net</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/learning-pathway-for-net</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1654,11 +1654,11 @@ pinal-bhatt.blogspot.com
         <description>Linq to xml for reading rss feeds
 </description>
         <pubDate>Sun, 16 Nov 2008 18:14:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/rss-feeds-linq-to-xml</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/rss-feeds-linq-to-xml</guid>
+        <link>http://blog.pbdesk.io/dotnet/rss-feeds-linq-to-xml</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/rss-feeds-linq-to-xml</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1680,11 +1680,11 @@ pinal-bhatt.blogspot.com
         <description>Here is an article for comparing and contrasting the two most powerful and most popular .Net languages C# and Visual Basic 
 </description>
         <pubDate>Sun, 16 Nov 2008 18:14:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/c-vs-vb</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-vs-vb</guid>
+        <link>http://blog.pbdesk.io/dotnet/c-vs-vb</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/c-vs-vb</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1895,11 +1895,11 @@ My Blogs:
         <title>C# : String utility code snippets</title>
         <description>Below are the common utilities / code snippets often required while working with strings. I have written them as static functions.&amp;#160; [C# 3.0] StripHtml C# function to strip Html tags...</description>
         <pubDate>Sun, 09 Mar 2008 07:51:00 -0400</pubDate>
-        <link>http://blog.pbdesk.io/.net/c-string-utility-code-snippets</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-string-utility-code-snippets</guid>
+        <link>http://blog.pbdesk.io/dotnet/c-string-utility-code-snippets</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/c-string-utility-code-snippets</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1907,11 +1907,11 @@ My Blogs:
         <title>Generic methods to read value from DataReader</title>
         <description>Reading a value from DataReader is one of the most often and repetitive task for programmers working on database project. Here are the generic methods to make this work easy:...</description>
         <pubDate>Fri, 07 Mar 2008 12:43:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/generic-methods-to-read-value-from-datareader</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/generic-methods-to-read-value-from-datareader</guid>
+        <link>http://blog.pbdesk.io/dotnet/generic-methods-to-read-value-from-datareader</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/generic-methods-to-read-value-from-datareader</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     
@@ -1943,11 +1943,11 @@ My Blogs:
         <title>My Projects</title>
         <description></description>
         <pubDate>Wed, 20 Feb 2008 16:47:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/asp.net/my-projects</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/my-projects</guid>
+        <link>http://blog.pbdesk.io/dotnet/asp.net/my-projects</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/asp.net/my-projects</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
         <category>asp.net</category>
         
@@ -1957,11 +1957,11 @@ My Blogs:
         <title>C# : Enum – Tricks &amp; Tips</title>
         <description>This is not a beginners tutorial for concept of Enum. Its is assumed that you are aware of the basic concepts of enum. Here I am presenting few advance level...</description>
         <pubDate>Wed, 20 Feb 2008 12:23:00 -0500</pubDate>
-        <link>http://blog.pbdesk.io/.net/c-enum-tricks-tips</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-enum-tricks-tips</guid>
+        <link>http://blog.pbdesk.io/dotnet/c-enum-tricks-tips</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/c-enum-tricks-tips</guid>
         
         
-        <category>.net</category>
+        <category>dotnet</category>
         
       </item>
     

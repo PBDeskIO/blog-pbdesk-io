@@ -4,7 +4,7 @@
  <title>Pinal Bhatt's Blog</title>
  <link href="http://blog.pbdesk.io/atom.xml" rel="self"/>
  <link href="http://blog.pbdesk.io/"/>
- <updated>2015-05-28T22:53:29-04:00</updated>
+ <updated>2015-05-29T12:00:41-04:00</updated>
  <id>http://blog.pbdesk.io</id>
  <author>
    <name>Pinal Bhatt</name>
@@ -824,9 +824,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>INotifyPropertyChanged - The .NET 4.5 Way. CallerMemberName</title>
-   <link href="http://blog.pbdesk.io/.net/inotifypropertychanged-the-net-4-5-way-callermembername"/>
+   <link href="http://blog.pbdesk.io/dotnet/inotifypropertychanged-the-net-4-5-way-callermembername"/>
    <updated>2012-08-07T09:43:00-04:00</updated>
-   <id>http://blog.pbdesk.io/.net/inotifypropertychanged-the-net-4-5-way-callermembername</id>
+   <id>http://blog.pbdesk.io/dotnet/inotifypropertychanged-the-net-4-5-way-callermembername</id>
    <content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Here are few links describing how to use INotifyPropertyChanged interface in .Net Framework 4.5 using new “&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/hh534540(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;Caller Information&lt;/a&gt;” Attributes: &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.runtime.compilerservices.callerfilepathattribute(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;CallerFilePathAttribute&lt;/a&gt;, &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.runtime.compilerservices.callerlinenumberattribute(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;CallerLineNumberAttribute&lt;/a&gt;, and &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.runtime.compilerservices.callermembernameattribute(v=vs.110).aspx#Y0&quot; target=&quot;_blank&quot;&gt;CallerMemberNameAttribute&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -892,9 +892,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>C# Extension Methods – I Love Them!!!!</title>
-   <link href="http://blog.pbdesk.io/.net/c-extension-methods-i-love-them"/>
+   <link href="http://blog.pbdesk.io/dotnet/c-extension-methods-i-love-them"/>
    <updated>2012-02-10T12:08:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/c-extension-methods-i-love-them</id>
+   <id>http://blog.pbdesk.io/dotnet/c-extension-methods-i-love-them</id>
    <content type="html">&lt;p align=&quot;justify&quot;&gt;Extension Methods - Yet another cool feature brought into .Net realm with C# 3 and VB.Net 9. Extension methods allow you to &amp;quot;add&amp;quot; methods to existing types without creating a new derived type, recompiling, or otherwise modifying the original type. In a way it allows you to extend an existing type with new functionality, without having to sub-class or recompile the old type. &lt;/p&gt;
 &lt;h4&gt;The Need:&lt;/h4&gt;
 &lt;p&gt;While programming, many time situations arise where it is necessary to add functionality to an existing class—for instance by adding a new method. Normally we can do this by modifying the existing class&#39;s source code, but this forces to recompile all binaries with these new changes and more important, requires that the programmer have access to the source code, which is not always possible, for example when using classes from a third-party assembly or out-of-box .Net base class libraries. This can be typically worked around in one of following ways:&lt;/p&gt;
@@ -971,9 +971,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>C# Generic String Parser Extension Method</title>
-   <link href="http://blog.pbdesk.io/.net/programming/c-generic-string-parser-extension-method"/>
+   <link href="http://blog.pbdesk.io/dotnet/programming/c-generic-string-parser-extension-method"/>
    <updated>2012-02-01T21:50:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/programming/c-generic-string-parser-extension-method</id>
+   <id>http://blog.pbdesk.io/dotnet/programming/c-generic-string-parser-extension-method</id>
    <content type="html">&lt;p&gt;Here is an extension method for strings in C# for parsing stings to other types.&lt;/p&gt;
 &lt;p&gt;Code at Gist&lt;br /&gt;
 [gist id = &quot;af652fbca4e543bc3c23&quot; file = &quot;GenericStringParserExtensionMethod.cs&quot; ]&lt;/p&gt;
@@ -984,9 +984,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>Whats coming up new with .Net 4.5 ?</title>
-   <link href="http://blog.pbdesk.io/.net/microsoft/whats-coming-up-new-with-net-4-5"/>
+   <link href="http://blog.pbdesk.io/dotnet/microsoft/whats-coming-up-new-with-net-4-5"/>
    <updated>2011-11-29T11:30:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/microsoft/whats-coming-up-new-with-net-4-5</id>
+   <id>http://blog.pbdesk.io/dotnet/microsoft/whats-coming-up-new-with-net-4-5</id>
    <content type="html">&lt;p&gt;Microsoft has already announced developer preview for .Net Framework 4.5 which is expected to come with ASP.Net 4.5, ASP.Net MVC 4, ASP.NET Web Pages 2,Visual Studio 11 and lot more for Windows 8 development.   &lt;/p&gt;
 &lt;p&gt;Below are few important and informative links regarding what&#39;s coming new under .Net 4.5 umbrella:   &lt;/p&gt;
 &lt;h5&gt;&lt;a href=&quot;http://weblogs.asp.net/jgalloway/archive/2011/09/14/get-the-scoop-on-the-asp-net-4-5-asp-net-mvc-4-asp-net-web-pages-2-and-visual-studio-11-developer-previews.aspx&quot; target=&quot;_blank&quot;&gt;Get the Scoop on the ASP.NET 4.5, ASP.NET MVC 4, ASP.NET Web Pages 2, and Visual Studio 11 Developer Previews&lt;/a&gt;&lt;/h5&gt;
@@ -1411,9 +1411,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>ASP.Net Open Source CMS</title>
-   <link href="http://blog.pbdesk.io/.net/asp.net/cms/asp-net-open-source-cms"/>
+   <link href="http://blog.pbdesk.io/dotnet/asp.net/cms/asp-net-open-source-cms"/>
    <updated>2011-01-18T14:27:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/asp.net/cms/asp-net-open-source-cms</id>
+   <id>http://blog.pbdesk.io/dotnet/asp.net/cms/asp-net-open-source-cms</id>
    <content type="html">&lt;h3 align=&quot;center&quot;&gt;Umbraco Rocks!!!&lt;/h3&gt;
 &lt;p align=&quot;justify&quot;&gt;Since long I was thinking of writhing this post. I have been blogging since 2007 at &lt;a href=&quot;http://blog.pbdesk.com/&quot; target=&quot;_blank&quot;&gt;blog.PBDesk.com&lt;/a&gt; powered by Google Blogger. But blogs have there own limitations, I was looking for my own full website wherein I can do whatever I want.&amp;#160; Being a .Net developer, initially i started writing whole website from scratch using ASP.Net, but that was taking up big deal of time. Lot of things to do - creating UI, business, framework, data access components and many more things.... &lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;So then I started looking for some open source CMS frameworks, which I can use as base for my website and build all my imaginations over it. In this way I can get some basic functionalities (basic framework and data access components) ready available. when I googled for &amp;quot;Opensource CMS&amp;quot;, i found many of them in the ocean. Shortlisted few of them based on their popularity: Joomla, Drupal, DotNetNuke, MojoPortal, Kooboo, Umbraco, N2CMS, Moodle, Kentico. (&lt;em&gt;Has anybody ever wondered why open source CMS systems have typical fuzzy names like this&lt;/em&gt;?) &lt;/p&gt;
@@ -1924,9 +1924,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>Visual Studio 2010 RC is now available</title>
-   <link href="http://blog.pbdesk.io/.net/asp.net/visual-studio-2010-rc-is-now-available"/>
+   <link href="http://blog.pbdesk.io/dotnet/asp.net/visual-studio-2010-rc-is-now-available"/>
    <updated>2010-02-11T23:45:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/asp.net/visual-studio-2010-rc-is-now-available</id>
+   <id>http://blog.pbdesk.io/dotnet/asp.net/visual-studio-2010-rc-is-now-available</id>
    <content type="html">&lt;p align=&quot;justify&quot;&gt;Finally, long awaited Microsoft Visual Studio 2010 Release Candidate with .Net Framework 4.0 and ASP.Net 4.0 was made publically available on 10th Feb, 2010.&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;I downloaded and installed it successfully, and only thing I can say it is far far batter then its previous beta releases. Still i feel it is slow compared it to VS2008, but new features and new look are worth it. It took about 4 hours to uninstall Beta2, download .ISO file of about 2.5 gb and install VS2010, but process was smooth.&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;It has an awesome, new sober look and feel with WPF-based UI and improved focus on writing, understanding, navigating, debugging and publishing the code.&lt;/p&gt;
@@ -1960,9 +1960,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>Null Object Design Pattern</title>
-   <link href="http://blog.pbdesk.io/.net/design%20patterns/null-object-design-pattern"/>
+   <link href="http://blog.pbdesk.io/dotnet/design%20patterns/null-object-design-pattern"/>
    <updated>2010-02-03T14:35:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/design%20patterns/null-object-design-pattern</id>
+   <id>http://blog.pbdesk.io/dotnet/design%20patterns/null-object-design-pattern</id>
    <content type="html">&lt;p align=&quot;justify&quot;&gt;Null Object design pattern – alternatively returning &lt;em&gt;&lt;strong&gt;null object&lt;/strong&gt;&lt;/em&gt; instead of ‘&lt;em&gt;&lt;strong&gt;Null&lt;/strong&gt;’&lt;/em&gt; to avoid repeatedly checking for null values within code.&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;In the object oriented programming realm it&#39;s very common to create or use methods and properties that return null. And this resulting in NullReferenceException if the programmer forget to assert for null.&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;Null Object design pattern suggests to always return a valid instance instead of null. Rather returning null, you would return an object with a &amp;quot;null&amp;quot; or default behavior/state. This is the same approach as returning an default object instead of null. When you return null, the callers need to check for null. When you return an default object, the callers can access it without a problem - even if they forget to check for null.&lt;/p&gt;
@@ -2013,18 +2013,18 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>C# : News Updates</title>
-   <link href="http://blog.pbdesk.io/dotnet/c%23/c-news-updates"/>
+   <link href="http://blog.pbdesk.io/dotnet/csharp/c-news-updates"/>
    <updated>2009-11-13T17:39:00-05:00</updated>
-   <id>http://blog.pbdesk.io/dotnet/c%23/c-news-updates</id>
+   <id>http://blog.pbdesk.io/dotnet/csharp/c-news-updates</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;color: #444444;&quot;&gt;[wp_rss_multi_importer category=&quot;5&quot;]&lt;/span&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Facebook Membership Provider</title>
-   <link href="http://blog.pbdesk.io/.net/asp.net/facebook/facebook-membership-provider"/>
+   <link href="http://blog.pbdesk.io/dotnet/asp.net/facebook/facebook-membership-provider"/>
    <updated>2009-11-13T12:27:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/asp.net/facebook/facebook-membership-provider</id>
+   <id>http://blog.pbdesk.io/dotnet/asp.net/facebook/facebook-membership-provider</id>
    <content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p align=&quot;justify&quot;&gt;One of the great new features introduced in ASP.NET 2.0 was the use of the &amp;quot;&lt;em&gt;Provider Model&lt;/em&gt;&amp;quot; which provides flexibility and extensibility to your Web applications. Using the provider model, we can easily extend the capabilities provided by the ASP.NET. We can extend the provider model to work with the membership &amp;amp; role information for the Web site users in a custom way, rather than the default SQL Server Express 2005 database. In this project we are trying to demonstrate how to use Facebook Connect featues as Membership Provider for an ASP.Net web application.&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;Facebook is no doubt, #1 social networking site. &lt;strong&gt;Facebook Connect&lt;/strong&gt; provides Authentication service and also provides powerful set of APIs by which we can bring user&#39;s identity and connections to our web applications. Using Facebook connect can access a user&#39;s Idnetity(name, photos etc), Social Graph(friends and connections) and Stream(ctivity, distribution, and integration points within Facebook, like stream stories and Publishers)&lt;/p&gt;
@@ -3192,9 +3192,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>Learning F#</title>
-   <link href="http://blog.pbdesk.io/.net/learning-f"/>
+   <link href="http://blog.pbdesk.io/dotnet/learning-f"/>
    <updated>2009-06-16T13:51:00-04:00</updated>
-   <id>http://blog.pbdesk.io/.net/learning-f</id>
+   <id>http://blog.pbdesk.io/dotnet/learning-f</id>
    <content type="html">&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;b&gt;F#&lt;/b&gt; - a new buzz word in the market. With .Net Framework 4.0 Microsoft is also planning to release F# - a multi-paradigm, strongly typed,&amp;nbsp; functional programming language.     &lt;/p&gt;
 &lt;p&gt;I have been hearing about F# almost since last one year but now planning to enter into this new paradigm. So with this intention I am starting this blog to share my learnings on F#. I will regularly update this post as I proceed with my learning.    &lt;/p&gt;
 &lt;p&gt;My first step will be to know what exactly this buzz word means by answering questions like What is F#? Why F#? History of F#.    &lt;/p&gt;
@@ -3426,9 +3426,9 @@ Initial Draft &lt;/td&gt;
  
  <entry>
    <title>C# Tutorial</title>
-   <link href="http://blog.pbdesk.io/.net/c-tutorial"/>
+   <link href="http://blog.pbdesk.io/dotnet/c-tutorial"/>
    <updated>2009-03-17T06:24:00-04:00</updated>
-   <id>http://blog.pbdesk.io/.net/c-tutorial</id>
+   <id>http://blog.pbdesk.io/dotnet/c-tutorial</id>
    <content type="html">&lt;p&gt;Welcome to C# Tutorials. &lt;br /&gt;This is an attempt to provide the systematic &amp; strategic learning track/guide for the candidates looking forward to learn and master C#.&lt;/p&gt;
 &lt;p style=&quot;text-align:center&quot;&gt;&lt;b&gt;Table of contents&lt;/b&gt;&lt;br /&gt;(C# 3.0 Covered)&lt;/p&gt;
 &lt;ul&gt;
@@ -3525,9 +3525,9 @@ Initial Draft &lt;/td&gt;
  
  <entry>
    <title>Learning Pathway for .Net</title>
-   <link href="http://blog.pbdesk.io/.net/learning-pathway-for-net"/>
+   <link href="http://blog.pbdesk.io/dotnet/learning-pathway-for-net"/>
    <updated>2009-03-17T06:13:00-04:00</updated>
-   <id>http://blog.pbdesk.io/.net/learning-pathway-for-net</id>
+   <id>http://blog.pbdesk.io/dotnet/learning-pathway-for-net</id>
    <content type="html">&lt;p&gt;Just as in life, you need to know at least one language of communication for your survival, to swim the ocean of .Net you need to know at least one .Net programming language. Of the many .Net programming languages you need to learn and master at least one of them. And on the whole your major choice is going to be between &lt;span style=&quot;font-weight: bold&quot;&gt;C#&lt;/span&gt; or &lt;span style=&quot;font-weight: bold&quot;&gt;Visual Basic&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
 &lt;p&gt;So taking first step towards learning .Net, you need to decide for the core programming language: C# or VB or some other……, but we are going to focus on VB &amp;amp; C# only, for other .Net languages you may ‘Google’ &lt;span&gt;&lt;/span&gt;further……&lt;/p&gt;
@@ -4786,9 +4786,9 @@ On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.N
  
  <entry>
    <title>RSS Feeds & LINQ to XML</title>
-   <link href="http://blog.pbdesk.io/.net/rss-feeds-linq-to-xml"/>
+   <link href="http://blog.pbdesk.io/dotnet/rss-feeds-linq-to-xml"/>
    <updated>2008-11-16T18:14:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/rss-feeds-linq-to-xml</id>
+   <id>http://blog.pbdesk.io/dotnet/rss-feeds-linq-to-xml</id>
    <content type="html">&lt;p&gt;Linq to xml for reading rss feeds&lt;/p&gt;
 </content>
  </entry>
@@ -4804,9 +4804,9 @@ On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.N
  
  <entry>
    <title>C# vs VB</title>
-   <link href="http://blog.pbdesk.io/.net/c-vs-vb"/>
+   <link href="http://blog.pbdesk.io/dotnet/c-vs-vb"/>
    <updated>2008-11-16T18:14:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/c-vs-vb</id>
+   <id>http://blog.pbdesk.io/dotnet/c-vs-vb</id>
    <content type="html">&lt;p&gt;Here is an article for comparing and contrasting the two most powerful and most popular .Net languages C# and Visual Basic &lt;/p&gt;
 </content>
  </entry>
@@ -5122,9 +5122,9 @@ On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.N
  
  <entry>
    <title>C# : String utility code snippets</title>
-   <link href="http://blog.pbdesk.io/.net/c-string-utility-code-snippets"/>
+   <link href="http://blog.pbdesk.io/dotnet/c-string-utility-code-snippets"/>
    <updated>2008-03-09T07:51:00-04:00</updated>
-   <id>http://blog.pbdesk.io/.net/c-string-utility-code-snippets</id>
+   <id>http://blog.pbdesk.io/dotnet/c-string-utility-code-snippets</id>
    <content type="html">&lt;p&gt;Below are the common utilities / code snippets often required while working with strings. I have written them as static functions.&amp;#160; [C# 3.0]&lt;/p&gt;
 &lt;h2&gt;StripHtml&lt;/h2&gt;
 &lt;p align=&quot;justify&quot;&gt;C# function to strip Html tags / markups from input string. Rather, it not only strips Html tags but any sort of markups written in &amp;lt;xxx&amp;gt; format. Reference to &lt;strong&gt;System.Text.RegularExpressions&lt;/strong&gt; namespace needed.&lt;/p&gt;
@@ -5212,9 +5212,9 @@ On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.N
  
  <entry>
    <title>Generic methods to read value from DataReader</title>
-   <link href="http://blog.pbdesk.io/.net/generic-methods-to-read-value-from-datareader"/>
+   <link href="http://blog.pbdesk.io/dotnet/generic-methods-to-read-value-from-datareader"/>
    <updated>2008-03-07T12:43:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/generic-methods-to-read-value-from-datareader</id>
+   <id>http://blog.pbdesk.io/dotnet/generic-methods-to-read-value-from-datareader</id>
    <content type="html">&lt;p&gt;Reading a value from DataReader is one of the most often and repetitive task for programmers working on database project. Here are the generic methods to make this work easy:&lt;/p&gt;
 &lt;p&gt;Method &lt;em&gt;&lt;strong&gt;static T GetData&amp;lt;T&amp;gt;&lt;/strong&gt;&lt;/em&gt; gets value from the specified DataReader for the specified Column name with the option to return default value or throw exception in case of DBNull.&lt;/p&gt;
 &lt;div style=&quot;border-bottom: silver 1px solid; text-align: left; border-left: silver 1px solid; padding-bottom: 4px; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; padding-left: 4px; width: 97.5%; padding-right: 4px; font-family: &amp;#39;Courier New&amp;#39;, courier, monospace; direction: ltr; max-height: 600px; font-size: 8pt; overflow: auto; border-top: silver 1px solid; cursor: text; border-right: silver 1px solid; padding-top: 4px&quot;&gt;
@@ -5556,17 +5556,17 @@ On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.N
  
  <entry>
    <title>My Projects</title>
-   <link href="http://blog.pbdesk.io/.net/asp.net/my-projects"/>
+   <link href="http://blog.pbdesk.io/dotnet/asp.net/my-projects"/>
    <updated>2008-02-20T16:47:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/asp.net/my-projects</id>
+   <id>http://blog.pbdesk.io/dotnet/asp.net/my-projects</id>
    <content type="html"></content>
  </entry>
  
  <entry>
    <title>C# : Enum – Tricks & Tips</title>
-   <link href="http://blog.pbdesk.io/.net/c-enum-tricks-tips"/>
+   <link href="http://blog.pbdesk.io/dotnet/c-enum-tricks-tips"/>
    <updated>2008-02-20T12:23:00-05:00</updated>
-   <id>http://blog.pbdesk.io/.net/c-enum-tricks-tips</id>
+   <id>http://blog.pbdesk.io/dotnet/c-enum-tricks-tips</id>
    <content type="html">&lt;p align=&quot;justify&quot;&gt;This is not a beginners tutorial for concept of Enum. Its is assumed that you are aware of the basic concepts of enum. Here I am presenting few advance level tricks and tips which programmers often need while working with enums. For basic tutorial on enum you can visit &lt;a href=&quot;http://www.csharp-station.com/Tutorials/Lesson17.aspx&quot; target=&quot;_blank&quot;&gt;The C# Station Tutorial (Lesson 17: Enums)&lt;/a&gt; or msdn at &lt;a title=&quot;http://msdn.microsoft.com/en-us/library/sbbt4032(VS.80).aspx&quot; href=&quot;http://msdn.microsoft.com/en-us/library/sbbt4032(VS.80).aspx&quot;&gt;http://msdn.microsoft.com/en-us/library/sbbt4032(VS.80).aspx&lt;/a&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;All enum instances in .net implicitly inherit the System.Enum type in the Base Class Library and hence we can use members of System.Enum with the instances of enums. There are few good functionalities available in System.Enum which are often required while working with enums and for manipulating&amp;#160; them. So lets have look on them one by one.&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;One of the common requirement is to cast the enum object to and fro between its integer and string values. Consider following sample code:&lt;/p&gt;
