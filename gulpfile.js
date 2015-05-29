@@ -20,6 +20,7 @@ var runSequence = require('run-sequence');
 
 // Deletes the directory that is used to serve the site during development
 gulp.task("clean:dev", del.bind(null, ["serve"]));
+gulp.task("clean:serve", del.bind(null, ["serve"]));
 
 // Deletes the directory that the optimized site is output to
 gulp.task("clean:prod", del.bind(null, ["site"]));
@@ -95,19 +96,41 @@ gulp.task("optimize-images", function () {
       .pipe($.size({title: "images"}));
 });
 
+gulp.task("optimize-html", ["optimize-css", "optimize-js"], function () {
 
+
+    return gulp.src("serve/**/*.html")
+        .pipe($.minifyHtml({empty: true}))
+        .pipe(gulp.dest("serve"))
+        .pipe($.size({title: "HTML Optimization"}));
+        /*.pipe($.if("*.html", $.htmlmin({
+            removeComments: true,
+            removeCommentsFromCDATA: true,
+            removeCDATASectionsFromCDATA: true,
+            collapseWhitespace: true,
+            collapseBooleanAttributes: true,
+            removeAttributeQuotes: true,
+            removeRedundantAttributes: true
+        })))*/
+        // Send the output to the correct folder
+
+});
+
+
+/*
 // Copy xml and txt files to the "site" directory
 gulp.task("copy", function () {
-  return gulp.src(["serve/**/*.txt", "serve/**/*.xml"])
+  return gulp.src(["serve/!**!/!*.txt", "serve/!**!/!*.xml"])
     .pipe(gulp.dest("site"))
     .pipe($.size({ title: "xml & txt" }))
 });
+*/
 
-// Optimizes all the CSS, HTML and concats the JS etc
+/*// Optimizes all the CSS, HTML and concats the JS etc
 gulp.task("html", ["styles"], function () {
   var assets = $.useref.assets({searchPath: "serve"});
 
-  return gulp.src("serve/**/*.html")
+  return gulp.src("serve/!**!/!*.html")
     .pipe(assets)
     // Concatenate JavaScript files and preserve important comments
     .pipe($.if("*.js", $.uglify({preserveComments: "some"})))
@@ -133,7 +156,7 @@ gulp.task("html", ["styles"], function () {
     // Send the output to the correct folder
     .pipe(gulp.dest("site"))
     .pipe($.size({title: "optimizations"}));
-});
+});*/
 
 
 // Task to upload your site to your personal GH Pages repo
@@ -145,6 +168,18 @@ gulp.task("deploy", function () {
       // branch and automatically overwrite anything that is in the directory
 
       }));
+});
+
+gulp.task("Push-To-GhPages", function(callback){
+    runSequence(
+        "clean:serve",
+        ["optimize-css","optimize-js"],
+        "jekyll:dev",
+        "optimize-html",
+      //  "deploy",
+        callback
+    );
+
 });
 
 // Run JS Lint against your JS
