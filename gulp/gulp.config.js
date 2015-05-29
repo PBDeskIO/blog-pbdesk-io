@@ -10,15 +10,14 @@
         serverJS:[
             './server/**/*.js'
         ],
-        imagesSrc:[
-            appFolder  +  'img'
-        ],
+
         appFolder: appFolder,
         buildFolder: buildFolder,
         htmlFiles: [
             appFolder + '_site/**/*.html'
         ],
-        imagesDest: './app/_site/img',
+        imageSrc: './images/**/*.*',
+        imageDest: appFolder  +  'img/',
         cssBundle: [
             appFolder  +  'css/flexslider.css',
             appFolder  +  'css/prettyPhoto.css',

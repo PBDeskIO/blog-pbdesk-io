@@ -51,17 +51,15 @@ gulp.task("styles", function () {
 });
 
 // Optimizes the images that exists
-gulp.task("images", function () {
-  return gulp.src("src/assets/images/**")
-    .pipe($.changed("site/assets/images"))
-    .pipe($.imagemin({
-      // Lossless conversion to progressive JPGs
-      progressive: true,
-      // Interlace GIFs for progressive rendering
-      interlaced: true
-    }))
-    .pipe(gulp.dest("site/assets/images"))
-    .pipe($.size({title: "images"}));
+gulp.task("optimize-images", function () {
+  return gulp.src(configs.imageSrc)
+      .pipe($.imagemin({
+          optimizationLevel: 4,
+          progressive: true,
+          interlaced: true
+      }))
+      .pipe(gulp.dest(configs.imageDest))
+      .pipe($.size({title: "images"}));
 });
 
 // Copy over fonts to the "site" directory
