@@ -16,6 +16,7 @@ var reload = browserSync.reload;
 var bs;
 
 var configs = require("./gulp/gulp.config");
+var runSequence = require('run-sequence');
 
 // Deletes the directory that is used to serve the site during development
 gulp.task("clean:dev", del.bind(null, ["serve"]));
@@ -36,21 +37,53 @@ gulp.task("jekyll-rebuild", ["jekyll:dev"], function () {
 gulp.task("jekyll:prod", $.shell.task("jekyll build --config _config.yml,_config.build.yml"));
 
 
-gulp.task("styles", function () {
+/*gulp.task("styles", function () {
 
-  return gulp
-      .src(configs.cssBundle)
-      .pipe($.print())
-      .pipe($.autoprefixer("last 5 version", {browsers: ['last 5 version', '> 5%'], cascade: true }))
-      .pipe($.csso())
-      .pipe($.concat('bundle.css'))
-      .pipe(gulp.dest(configs.cssBundleDest))
-      .pipe(gulp.dest("serve/css/"))
-      .pipe($.size({title: "styles"}))
-      .pipe(reload({stream: true}));
+    return gulp
+        .src(configs.cssBundle)
+        .pipe($.print())
+        .pipe($.autoprefixer("last 5 version", {browsers: ['last 5 version', '> 5%'], cascade: true }))
+        .pipe($.csso())
+        .pipe($.concat('bundle.css'))
+        .pipe(gulp.dest(configs.cssBundleDest))
+        .pipe(gulp.dest("serve/css/"))
+        .pipe($.size({title: "styles"}))
+        .pipe(reload({stream: true}));
+});*/
+
+
+
+
+gulp.task("optimize-css", function () {
+
+    return gulp
+        .src(configs.cssBundle)
+        .pipe($.print())
+        .pipe($.autoprefixer("last 5 version", {browsers: ['last 5 version', '> 5%'], cascade: true }))
+        .pipe($.csso())
+        .pipe($.concat('bundle.css'))
+        .pipe(gulp.dest(configs.cssBundleDest))
+        .pipe(gulp.dest(configs.buildFolder + "css/"))
+        .pipe($.size({title: "CSS Bundle"}))
+        .pipe(reload({stream: true}));
 });
 
-// Optimizes the images that exists
+
+gulp.task("optimize-js", function () {
+
+    return gulp
+        .src(configs.jsBundle)
+        .pipe($.print())
+        .pipe($.uglify())
+        .pipe($.concat('bundle.js'))
+        .pipe(gulp.dest(configs.jsBundleDest))
+        .pipe(gulp.dest(configs.buildFolder + "js/"))
+        .pipe($.size({title: "JS Bundle"}))
+        .pipe(reload({stream: true}));
+});
+
+
+
 gulp.task("optimize-images", function () {
   return gulp.src(configs.imageSrc)
       .pipe($.imagemin({
@@ -62,16 +95,10 @@ gulp.task("optimize-images", function () {
       .pipe($.size({title: "images"}));
 });
 
-// Copy over fonts to the "site" directory
-gulp.task("fonts", function () {
- /* return gulp.src("src/assets/fonts/!**")
-    .pipe(gulp.dest("site/assets/fonts"))
-    .pipe($.size({ title: "fonts" }));*/
-});
 
 // Copy xml and txt files to the "site" directory
 gulp.task("copy", function () {
-  return gulp.src(["serve/*.txt", "serve/*.xml"])
+  return gulp.src(["serve/**/*.txt", "serve/**/*.xml"])
     .pipe(gulp.dest("site"))
     .pipe($.size({ title: "xml & txt" }))
 });
@@ -135,13 +162,17 @@ gulp.task("doctor", $.shell.task("jekyll doctor"));
 // BrowserSync will serve our site on a local server for us and other devices to use
 // It will also autoreload across all devices as well as keep the viewport synchronized
 // between them.
-gulp.task("serve:dev", ["styles", "jekyll:dev"], function () {
+gulp.task("serve:dev",  function () {
+    runSequence(
+        ["optimize-css","optimize-js"],
+        "jekyll:dev"
+    );
   bs = browserSync({
-    notify: true,
-    // tunnel: "",
-    server: {
-      baseDir: "serve"
-    }
+      notify: true,
+      // tunnel: "",
+      server: {
+          baseDir: "serve"
+      }
   });
 });
 
@@ -178,5 +209,5 @@ gulp.task("build", ["jekyll:prod", "styles"], function () {});
 // Builds your site with the "build" command and then runs all the optimizations on
 // it and outputs it to "./site"
 gulp.task("publish", ["build"], function () {
-  gulp.start("html", "copy", "images", "fonts");
+  gulp.start("html", "copy", "images");
 });
