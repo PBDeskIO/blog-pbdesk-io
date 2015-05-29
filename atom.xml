@@ -4,7 +4,7 @@
  <title>Pinal Bhatt's Blog</title>
  <link href="http://blog.pbdesk.io/atom.xml" rel="self"/>
  <link href="http://blog.pbdesk.io/"/>
- <updated>2015-05-29T12:00:41-04:00</updated>
+ <updated>2015-05-29T12:22:39-04:00</updated>
  <id>http://blog.pbdesk.io</id>
  <author>
    <name>Pinal Bhatt</name>
@@ -874,9 +874,9 @@ reports, and features requests.&lt;/p&gt;
  
  <entry>
    <title>Free eBooks: jQuery & Metro Apps</title>
-   <link href="http://blog.pbdesk.io/ebook/elearning/tutorials/windows8/free-ebooks-jquery-metro-apps"/>
+   <link href="http://blog.pbdesk.io/ebook/free-ebooks-jquery-metro-apps"/>
    <updated>2012-06-15T16:17:00-04:00</updated>
-   <id>http://blog.pbdesk.io/ebook/elearning/tutorials/windows8/free-ebooks-jquery-metro-apps</id>
+   <id>http://blog.pbdesk.io/ebook/free-ebooks-jquery-metro-apps</id>
    <content type="html">&lt;h2&gt;&lt;a href=&quot;http://www.syncfusion.com/resources/techportal/ebooks/jquery&quot; target=&quot;_blank&quot;&gt;jQuery Succinctly&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt; &lt;a href=&quot;http://www.syncfusion.com/resources/techportal/ebooks/jquery&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;background-image: none; border-right-width: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px&quot; title=&quot;jquery_img&quot; border=&quot;0&quot; alt=&quot;jquery_img&quot; align=&quot;left&quot; src=&quot;assets/jquery_img-25255B3-25255D.png&quot; width=&quot;160&quot; height=&quot;211&quot; /&gt;&lt;/a&gt;  &lt;br /&gt;By &lt;strong&gt;Cody Lindley&lt;/strong&gt; At&amp;#160; &lt;a href=&quot;http://www.syncfusion.com/resources/techportal/ebooks&quot; target=&quot;_blank&quot;&gt;Syncfusion&lt;/a&gt;
 &lt;div align=&quot;justify&quot;&gt;&lt;i&gt;jQuery Succinctly&lt;/i&gt; was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development. Its purpose is to instill in you, the reader, practices that jQuery developers take as common knowledge. Each chapter contains concepts essential to becoming a seasoned jQuery developer.&lt;/div&gt;

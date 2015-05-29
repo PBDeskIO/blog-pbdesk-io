@@ -5,8 +5,8 @@
     <description>Learning endeavor for ever...from the desk of Pinal Bhatt | blog.PBDesk.io</description>
     <link>http://blog.pbdesk.io/</link>
     <atom:link href="http://blog.pbdesk.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2015 12:00:41 -0400</pubDate>
-    <lastBuildDate>Fri, 29 May 2015 12:00:41 -0400</lastBuildDate>
+    <pubDate>Fri, 29 May 2015 12:22:39 -0400</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 12:22:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -430,17 +430,17 @@ Tweets about #NodeJS from:PBDesk
         <title>Free eBooks: jQuery &amp; Metro Apps</title>
         <description>jQuery Succinctly By Cody Lindley At&amp;#160; Syncfusion jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development. Its purpose is to instill in...</description>
         <pubDate>Fri, 15 Jun 2012 16:17:00 -0400</pubDate>
-        <link>http://blog.pbdesk.io/ebook/elearning/tutorials/windows8/free-ebooks-jquery-metro-apps</link>
-        <guid isPermaLink="true">http://blog.pbdesk.io/ebook/elearning/tutorials/windows8/free-ebooks-jquery-metro-apps</guid>
+        <link>http://blog.pbdesk.io/ebook/free-ebooks-jquery-metro-apps</link>
+        <guid isPermaLink="true">http://blog.pbdesk.io/ebook/free-ebooks-jquery-metro-apps</guid>
+        
+        <category>eBook</category>
+        
+        <category>Windows8</category>
+        
+        <category>jQuery</category>
         
         
         <category>ebook</category>
-        
-        <category>elearning</category>
-        
-        <category>tutorials</category>
-        
-        <category>windows8</category>
         
       </item>
     
