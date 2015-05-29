@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pinal Bhatt&#39;s Blog</title>
-    <description>blog.PBDesk.io</description>
+    <description>Learning endeavor for ever...from the desk of Pinal Bhatt | blog.PBDesk.io</description>
     <link>http://blog.pbdesk.io/</link>
     <atom:link href="http://blog.pbdesk.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2015 16:31:11 -0400</pubDate>
-    <lastBuildDate>Thu, 28 May 2015 16:31:11 -0400</lastBuildDate>
+    <pubDate>Thu, 28 May 2015 22:53:29 -0400</pubDate>
+    <lastBuildDate>Thu, 28 May 2015 22:53:29 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Jade Video Tutorial</title>
-        <description>&lt;p&gt; Jade - Template Engine for NodeJS. Jade is a cool, elegant, high-performance (and probably the most used) templating language for Node focused on enabling quick HTML coding. It has...</description>
+        <description>Jade - Template Engine for NodeJS. Jade is a cool, elegant, high-performance (and probably the most used) templating language for Node focused on enabling quick HTML coding. It has been...</description>
         <pubDate>Wed, 22 Apr 2015 17:30:08 -0400</pubDate>
         <link>http://blog.pbdesk.io/tutorial/jade-video-tuotrial</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/tutorial/jade-video-tuotrial</guid>
@@ -29,7 +29,7 @@
     
       <item>
         <title>Template for creating post</title>
-        <description>&lt;p&gt;Fusce imperdiet, risus eget viverra faucibus, diam mi vestibulum libero, ut vestibulum tellus magna nec enim. Nunc dapibus varius interdum. Phasellus at lorem ut lectus fermentum convallis. Sed diam nisi,...</description>
+        <description>Fusce imperdiet, risus eget viverra faucibus, diam mi vestibulum libero, ut vestibulum tellus magna nec enim. Nunc dapibus varius interdum. Phasellus at lorem ut lectus fermentum convallis. Sed diam nisi,...</description>
         <pubDate>Tue, 21 Apr 2015 12:16:08 -0400</pubDate>
         <link>http://blog.pbdesk.io/archives/post-template</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/archives/post-template</guid>
@@ -47,7 +47,7 @@
     
       <item>
         <title>Moving my blog to Jekyll!</title>
-        <description>&lt;p&gt;Yes I am moving my blog(blog.PBDesk.com) from WordPress to Jekyll and host it at Github pages at &lt;a href=&quot;http://blog.pbdesk.io&quot;&gt;http://blog.pbdesk.io&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;a href=&quot;http://blog.pbdesk.io&quot;&gt;http://blog.pbdesk.io&lt;/a&gt; Preview is almost ready&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;One more jump...</description>
+        <description>Yes I am moving my blog(blog.PBDesk.com) from WordPress to Jekyll and host it at Github pages at http://blog.pbdesk.io http://blog.pbdesk.io Preview is almost ready One more jump for my blog. I...</description>
         <pubDate>Mon, 20 Apr 2015 04:21:46 -0400</pubDate>
         <link>http://blog.pbdesk.io/jekyll/Moving-My-Blog-To-Jekyll</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/jekyll/Moving-My-Blog-To-Jekyll</guid>
@@ -61,7 +61,7 @@
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;blockquote&gt; &lt;p&gt;This was the default post created when I created Jekyll project. Keeping this post as is to show my liking for Jekyll.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;You’ll find this post in your...</description>
+        <description>This was the default post created when I created Jekyll project. Keeping this post as is to show my liking for Jekyll. You’ll find this post in your _posts directory....</description>
         <pubDate>Sat, 18 Apr 2015 04:21:46 -0400</pubDate>
         <link>http://blog.pbdesk.io/jekyll/welcome-to-jekyll</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/jekyll/welcome-to-jekyll</guid>
@@ -75,7 +75,7 @@
     
       <item>
         <title>ASP.Net vNext MVC 6 Videos</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Recently, in Summer 2014, Microsoft announced the preview availability of its new &lt;a href=&quot;http://www.asp.net/vnext&quot; target=&quot;_blank&quot;&gt;ASP.Net vNext&lt;/a&gt;, that is MVC 6.&lt;/p&gt; &lt;blockquote&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;ASP.NET vNext is a lean...</description>
+        <description>Recently, in Summer 2014, Microsoft announced the preview availability of its new ASP.Net vNext, that is MVC 6. ASP.NET vNext is a lean and composable framework for building web and...</description>
         <pubDate>Tue, 11 Nov 2014 11:16:08 -0500</pubDate>
         <link>http://blog.pbdesk.io/mvc6/asp-net-vnext-mvc-6-videos</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/mvc6/asp-net-vnext-mvc-6-videos</guid>
@@ -95,7 +95,7 @@
     
       <item>
         <title>ASP.Net MVC 6 - Whats New?</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Asp.Net vNext (http://asp.net/vNext) is the official place where we learn about next generation of Microsoft&#39;s ASP.Net framework. As of 2014 vNext is MVC 6! Yes MVC 6 is...</description>
+        <description>Asp.Net vNext (http://asp.net/vNext) is the official place where we learn about next generation of Microsoft&#39;s ASP.Net framework. As of 2014 vNext is MVC 6! Yes MVC 6 is the new...</description>
         <pubDate>Wed, 05 Nov 2014 10:35:50 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/asp-net-mvc-6-whats-new</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/asp-net-mvc-6-whats-new</guid>
@@ -117,7 +117,7 @@
     
       <item>
         <title>C# Code Snippet to Send Email</title>
-        <description>&lt;p&gt;Microsoft.Net framework provides &lt;a title=&quot;System.Net.Mail Namespace&quot; href=&quot;http://msdn.microsoft.com/en-us/library/System.Net.Mail.aspx&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;System.Net.Mail&lt;/strong&gt; Namespace&lt;/a&gt; for handling SMTP and email related utilities. &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.net.mail.smtpclient.aspx&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;SmtpClient&lt;/strong&gt; class&lt;/a&gt; allows applications to send e-mail by using the Simple Mail...</description>
+        <description>Microsoft.Net framework provides System.Net.Mail Namespace for handling SMTP and email related utilities. SmtpClient class allows applications to send e-mail by using the Simple Mail Transfer Protocol (SMTP) where as MailMessage...</description>
         <pubDate>Sat, 20 Sep 2014 10:46:58 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/c-code-snippet-send-email</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/c-code-snippet-send-email</guid>
@@ -133,7 +133,7 @@
     
       <item>
         <title>Unit Testing Node.JS With Mocha</title>
-        <description>&lt;p&gt;My google research for &quot;node js mocha tutorial&quot;&lt;/p&gt; &lt;h2&gt;1. &lt;a href=&quot;http://visionmedia.github.io/mocha/&quot; target=&quot;_blank&quot;&gt;Official web site for Mocha&lt;/a&gt;&lt;/h2&gt; &lt;address&gt;&lt;strong&gt;simple, flexible, fun&lt;/strong&gt;. &lt;span style=&quot;color: #2c2c2c;&quot;&gt;Mocha is a feature-rich JavaScript test framework running on &lt;/span&gt;&lt;a style=&quot;font-weight:...</description>
+        <description>My google research for &quot;node js mocha tutorial&quot; 1. Official web site for Mocha simple, flexible, fun. Mocha is a feature-rich JavaScript test framework running on node.js and the browser, makingasynchronous testing simple...</description>
         <pubDate>Sun, 24 Aug 2014 21:53:52 -0400</pubDate>
         <link>http://blog.pbdesk.io/nodejs/unit-testing-node-js-with-mocha</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/nodejs/unit-testing-node-js-with-mocha</guid>
@@ -167,7 +167,7 @@
     
       <item>
         <title>Getting started: Website in Node.JS With Express, Jade &amp; Stylus using Node.js Tools for Visual Studio</title>
-        <description>&lt;p&gt;Since last few days I am trying my hands with NodeJS. I came across very nice article &quot;&lt;a href=&quot;http://clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus&quot; target=&quot;_blank&quot;&gt;A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS&lt;/a&gt;&quot; by...</description>
+        <description>Since last few days I am trying my hands with NodeJS. I came across very nice article &quot;A SIMPLE WEBSITE IN NODE.JS WITH EXPRESS, JADE AND STYLUS&quot; by Ben Gourley....</description>
         <pubDate>Fri, 08 Aug 2014 10:00:37 -0400</pubDate>
         <link>http://blog.pbdesk.io/nodejs/getting-started-website-node-js-express-jade-stylus-using-node-js-tools-visual-studio</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/nodejs/getting-started-website-node-js-express-jade-stylus-using-node-js-tools-visual-studio</guid>
@@ -189,7 +189,7 @@
     
       <item>
         <title>Adieu PBDesk.com V2</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;Long back posted that i want to &lt;a title=&quot;ReWriting PBDesk.com&quot; href=&quot;http://blogs.pbdesk.com/rewriting-pbdesk-com/&quot; target=&quot;_blank&quot;&gt;rewrite my site &lt;/a&gt;with all new ASP.Net MVC, WebAPI, Umbaco7, AngularJS &amp;amp; Twitter Bootstrap.  It took lot...</description>
+        <description>Long back posted that i want to rewrite my site with all new ASP.Net MVC, WebAPI, Umbaco7, AngularJS &amp;amp; Twitter Bootstrap.  It took lot of time for me to rewrite...</description>
         <pubDate>Wed, 06 Aug 2014 15:07:20 -0400</pubDate>
         <link>http://blog.pbdesk.io/featured/myprojects/adieu-pbdesk-com-v2</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/featured/myprojects/adieu-pbdesk-com-v2</guid>
@@ -205,7 +205,10 @@
     
       <item>
         <title>Node.JS: Tutorials &amp; Resources</title>
-        <description>&lt;p&gt;Node.JS is getting very popular now a days and i have also started enjoying this new breeze.&lt;/p&gt; &lt;p&gt;Here are my recent tweets regarding NodeJS.&lt;/p&gt; &lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/search?q=%23NodeJS%20from%3APBDesk&quot; data-widget-id=&quot;594221529363263488&quot;&gt;Tweets about #NodeJS...</description>
+        <description>Node.JS is getting very popular now a days and i have also started enjoying this new breeze.
+Here are my recent tweets regarding NodeJS.
+Tweets about #NodeJS from:PBDesk
+</description>
         <pubDate>Sat, 05 Jul 2014 08:11:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/nodejs/nodejs-news-update</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/nodejs/nodejs-news-update</guid>
@@ -217,7 +220,7 @@
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You&amp;rsquo;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes! To add new posts, simply add...</description>
+        <description>You&amp;rsquo;ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes! To add new posts, simply add...</description>
         <pubDate>Mon, 03 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/jekyll/welcome-to-jekyll</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/jekyll/welcome-to-jekyll</guid>
@@ -229,7 +232,7 @@
     
       <item>
         <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You&amp;rsquo;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes! To add new posts, simply add...</description>
+        <description>You&amp;rsquo;ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes! To add new posts, simply add...</description>
         <pubDate>Mon, 03 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/ebooks/jekyll/welcome-to-jekyll</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/ebooks/jekyll/welcome-to-jekyll</guid>
@@ -243,7 +246,7 @@
     
       <item>
         <title>Test Book</title>
-        <description>&lt;div&gt;Test Book&lt;/div&gt;</description>
+        <description>Test Book</description>
         <pubDate>Sun, 02 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/ebooks/test-book</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/ebooks/test-book</guid>
@@ -255,7 +258,7 @@
     
       <item>
         <title>Introducing Poole</title>
-        <description>&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jeykll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among...</description>
+        <description>The Strange Case of Dr. Jeykll and Mr. Hyde tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among...</description>
         <pubDate>Sun, 02 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/ebooks/jekyll/poole/introducing-poole</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/ebooks/jekyll/poole/introducing-poole</guid>
@@ -271,7 +274,7 @@
     
       <item>
         <title>Introducing Poole</title>
-        <description>&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jeykll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among...</description>
+        <description>The Strange Case of Dr. Jeykll and Mr. Hyde tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among...</description>
         <pubDate>Sun, 02 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/jekyll/poole/introducing-poole</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/jekyll/poole/introducing-poole</guid>
@@ -285,7 +288,7 @@
     
       <item>
         <title>ReWriting PBDesk.com</title>
-        <description>&lt;p&gt;[caption id=&quot;attachment_242&quot; align=&quot;alignright&quot; width=&quot;300&quot;]&lt;a href=&quot;http://2013.PBDesk.com&quot;&gt;&lt;img class=&quot;wp-image-242 size-medium&quot; src=&quot;assets/2013-300x235.png&quot; alt=&quot;2013.PBDesk.com&quot; width=&quot;300&quot; height=&quot;235&quot; /&gt;&lt;/a&gt; 2013.PBDesk.com[/caption]&lt;/p&gt; &lt;p&gt;[caption id=&quot;attachment_243&quot; align=&quot;alignleft&quot; width=&quot;300&quot;]&lt;a href=&quot;http://www.PBDesk.com&quot;&gt;&lt;img class=&quot;wp-image-243 size-medium&quot; src=&quot;assets/2014-300x237.png&quot; alt=&quot;2014.PBDesk.com&quot; width=&quot;300&quot; height=&quot;237&quot; /&gt;&lt;/a&gt; 2014.PBDesk.com[/caption]&lt;/p&gt; &lt;p&gt;&lt;a title=&quot;PBDesk.com&quot; href=&quot;http://www.PBDesk.com&quot; target=&quot;_blank&quot;&gt;PBDesk.com&lt;/a&gt;...</description>
+        <description>[caption id=&quot;attachment_242&quot; align=&quot;alignright&quot; width=&quot;300&quot;] 2013.PBDesk.com[/caption] [caption id=&quot;attachment_243&quot; align=&quot;alignleft&quot; width=&quot;300&quot;] 2014.PBDesk.com[/caption] PBDesk.com - My Site, My Desk! Its now more then an year with same look, not sure of others ;)...</description>
         <pubDate>Tue, 24 Dec 2013 04:12:02 -0500</pubDate>
         <link>http://blog.pbdesk.io/myprojects/rewriting-pbdesk-com</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/myprojects/rewriting-pbdesk-com</guid>
@@ -307,7 +310,7 @@
     
       <item>
         <title>AngularJS – Really SuperHeroic JavaScipt</title>
-        <description>&lt;blockquote&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Updated on 30th Aug, 2014 - AngularJS 1.3.0-rc.0 is Out.&lt;/p&gt; &lt;/blockquote&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;The day Apple said it will not support plugins like Flash Player, Silverlight for its...</description>
+        <description>Updated on 30th Aug, 2014 - AngularJS 1.3.0-rc.0 is Out. The day Apple said it will not support plugins like Flash Player, Silverlight for its iOS based devices, new revolution [caption...</description>
         <pubDate>Fri, 10 May 2013 10:15:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/angularjs/angularjs-really-superheroic-javascipt</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/angularjs/angularjs-really-superheroic-javascipt</guid>
@@ -323,7 +326,7 @@
     
       <item>
         <title>Javascript: Random Number between two integers</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Javascript does has built-in function Math.random() to generate a random number, however the so generated random number is always a floating value between 0 and 1. This may be...</description>
+        <description>Javascript does has built-in function Math.random() to generate a random number, however the so generated random number is always a floating value between 0 and 1. This may be fine...</description>
         <pubDate>Mon, 07 Jan 2013 18:11:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/javascript/javascript-random-number-between-two-integers</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/javascript-random-number-between-two-integers</guid>
@@ -341,7 +344,7 @@
     
       <item>
         <title>.Net 4.5, VS2012 &amp; Windows 8 Released</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;WOW….. Looks like a release season a Microsoft. Many new products and technologies getting released in this month and and in near future.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://blog.pbdesk.com/wp-content/uploads/2012/08/dotnet_thumb-25255B9-25255D.jpg&quot;&gt;&lt;img style=&quot;background-image: none; margin:...</description>
+        <description>WOW….. Looks like a release season a Microsoft. Many new products and technologies getting released in this month and and in near future. Visual Studio 2012 .Net Framework 4.5 ASP.Net...</description>
         <pubDate>Thu, 23 Aug 2012 09:10:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/microsoft/net-4-5-vs2012-windows-8-released</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/microsoft/net-4-5-vs2012-windows-8-released</guid>
@@ -371,7 +374,7 @@
     
       <item>
         <title>SQLite Browsers, Explorers, Admin GUI Tools</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://www.sqlite.org/&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;background-image: none; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border: 0px;&quot; title=&quot;sqlite370&quot; src=&quot;assets/sqlite370-25255B3-25255D.gif&quot; alt=&quot;sqlite370&quot; width=&quot;220&quot; height=&quot;101&quot; align=&quot;left&quot; border=&quot;0&quot; /&gt;SQLite&lt;/a&gt; is a software...</description>
+        <description>SQLite is a software library that implements a self-contained, server less, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world. The source...</description>
         <pubDate>Fri, 10 Aug 2012 16:56:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/featured/sqlite-browsers-explorers-admin-gui-tools</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/featured/sqlite-browsers-explorers-admin-gui-tools</guid>
@@ -385,7 +388,7 @@
     
       <item>
         <title>Using SQLite With  WinRT, Metro, Windows 8 Mobile</title>
-        <description>&lt;p&gt;As pre recent news at &lt;a title=&quot;http://www.sqlite.org/news.html&quot; href=&quot;http://www.sqlite.org/news.html&quot; target=&quot;_blank&quot;&gt;http://www.sqlite.org/news.html&lt;/a&gt; on 2012-June-11 - Release 3.7.13&lt;/p&gt; &lt;p align=&quot;justify&quot;&gt;&lt;a href=&quot;http://blog.pbdesk.com/wp-content/uploads/2012/08/sqlite370_thumb-25255B12-25255D.gif&quot;&gt;&lt;img style=&quot;background-image: none; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border:...</description>
+        <description>As pre recent news at http://www.sqlite.org/news.html on 2012-June-11 - Release 3.7.13 “SQLite version 3.7.13 adds support for WinRT and metro style applications for Microsoft Windows 8. The 3.7.13 release is...</description>
         <pubDate>Fri, 10 Aug 2012 10:50:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/windows8/using-sqlite-with-winrt-metro-windows-8-mobile</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/windows8/using-sqlite-with-winrt-metro-windows-8-mobile</guid>
@@ -397,7 +400,7 @@
     
       <item>
         <title>INotifyPropertyChanged - The .NET 4.5 Way. CallerMemberName</title>
-        <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Here are few links describing how to use INotifyPropertyChanged interface in .Net Framework 4.5 using new “&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/hh534540(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;Caller Information&lt;/a&gt;” Attributes: &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.runtime.compilerservices.callerfilepathattribute(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;CallerFilePathAttribute&lt;/a&gt;, &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.runtime.compilerservices.callerlinenumberattribute(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;CallerLineNumberAttribute&lt;/a&gt;, and &lt;a...</description>
+        <description>&amp;nbsp; Here are few links describing how to use INotifyPropertyChanged interface in .Net Framework 4.5 using new “Caller Information” Attributes: CallerFilePathAttribute, CallerLineNumberAttribute, and CallerMemberNameAttribute MSDN: Caller Information (C# and Visual...</description>
         <pubDate>Tue, 07 Aug 2012 09:43:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/.net/inotifypropertychanged-the-net-4-5-way-callermembername</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/inotifypropertychanged-the-net-4-5-way-callermembername</guid>
@@ -413,7 +416,7 @@
     
       <item>
         <title>Route Constraints With ASP.Net MVC &amp; WebAPI</title>
-        <description>&lt;p&gt;&lt;strong&gt;ASP.Net MVC&lt;/strong&gt; has a powerful &lt;strong&gt;Routing&lt;/strong&gt; &lt;strong&gt;Engine&lt;/strong&gt; that allows mapping between URL Routes and Controller Actions. Below are few links regarding how you can control how browser requests match routes...</description>
+        <description>ASP.Net MVC has a powerful Routing Engine that allows mapping between URL Routes and Controller Actions. Below are few links regarding how you can control how browser requests match routes...</description>
         <pubDate>Tue, 17 Jul 2012 09:08:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/asp.net/route-constraints-with-asp-net-mvc-webapi</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/asp.net/route-constraints-with-asp-net-mvc-webapi</guid>
@@ -425,7 +428,7 @@
     
       <item>
         <title>Free eBooks: jQuery &amp; Metro Apps</title>
-        <description>&lt;h2&gt;&lt;a href=&quot;http://www.syncfusion.com/resources/techportal/ebooks/jquery&quot; target=&quot;_blank&quot;&gt;jQuery Succinctly&lt;/a&gt;&lt;/h2&gt; &lt;p&gt; &lt;a href=&quot;http://www.syncfusion.com/resources/techportal/ebooks/jquery&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;background-image: none; border-right-width: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width:...</description>
+        <description>jQuery Succinctly By Cody Lindley At&amp;#160; Syncfusion jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development. Its purpose is to instill in...</description>
         <pubDate>Fri, 15 Jun 2012 16:17:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/ebook/elearning/tutorials/windows8/free-ebooks-jquery-metro-apps</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/ebook/elearning/tutorials/windows8/free-ebooks-jquery-metro-apps</guid>
@@ -443,7 +446,7 @@
     
       <item>
         <title>C# Extension Methods – I Love Them!!!!</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Extension Methods - Yet another cool feature brought into .Net realm with C# 3 and VB.Net 9. Extension methods allow you to &amp;quot;add&amp;quot; methods to existing types without creating...</description>
+        <description>Extension Methods - Yet another cool feature brought into .Net realm with C# 3 and VB.Net 9. Extension methods allow you to &amp;quot;add&amp;quot; methods to existing types without creating a...</description>
         <pubDate>Fri, 10 Feb 2012 12:08:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/c-extension-methods-i-love-them</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-extension-methods-i-love-them</guid>
@@ -455,7 +458,7 @@
     
       <item>
         <title>C# Generic String Parser Extension Method</title>
-        <description>&lt;p&gt;Here is an extension method for strings in C# for parsing stings to other types.&lt;/p&gt; &lt;p&gt;Code at Gist&lt;br /&gt; [gist id = &quot;af652fbca4e543bc3c23&quot; file = &quot;GenericStringParserExtensionMethod.cs&quot; ]&lt;/p&gt; &lt;p&gt;[emc2alert type=&quot;success&quot; style=&quot;normal&quot;...</description>
+        <description>Here is an extension method for strings in C# for parsing stings to other types. Code at Gist [gist id = &quot;af652fbca4e543bc3c23&quot; file = &quot;GenericStringParserExtensionMethod.cs&quot; ] [emc2alert type=&quot;success&quot; style=&quot;normal&quot; position=&quot;top&quot;...</description>
         <pubDate>Wed, 01 Feb 2012 21:50:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/programming/c-generic-string-parser-extension-method</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/programming/c-generic-string-parser-extension-method</guid>
@@ -473,7 +476,7 @@
     
       <item>
         <title>Whats coming up new with .Net 4.5 ?</title>
-        <description>&lt;p&gt;Microsoft has already announced developer preview for .Net Framework 4.5 which is expected to come with ASP.Net 4.5, ASP.Net MVC 4, ASP.NET Web Pages 2,Visual Studio 11 and lot more...</description>
+        <description>Microsoft has already announced developer preview for .Net Framework 4.5 which is expected to come with ASP.Net 4.5, ASP.Net MVC 4, ASP.NET Web Pages 2,Visual Studio 11 and lot more...</description>
         <pubDate>Tue, 29 Nov 2011 11:30:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/microsoft/whats-coming-up-new-with-net-4-5</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/microsoft/whats-coming-up-new-with-net-4-5</guid>
@@ -487,11 +490,11 @@
     
       <item>
         <title>ScottGu&#39;s : ASP.NET vNext Series</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/archive/2011/08/31/asp-net-vnext-series.aspx&quot;&gt;ScottGu&#39;s :  ASP.NET vNext Series&lt;/a&gt;: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/archive/2011/08/31/html-editor-smart-tasks-and-event-handler-generation-asp-net-vnext-series.aspx&quot;&gt;HTML Editor Support for Smart Tasks and Event Handler Generation&lt;/a&gt; (Aug 31st) &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://weblogs.asp.net/scottgu/archive/2011/09/01/strongly-typed-data-controls-asp-net-vnext-series.aspx&quot;&gt;Strongly Typed Data Controls&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+        <description>ScottGu&#39;s :  ASP.NET vNext Series: 
+
+HTML Editor Support for Smart Tasks and Event Handler Generation (Aug 31st) 
+Strongly Typed Data Controls
+
 </description>
         <pubDate>Thu, 01 Sep 2011 08:55:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/scottgus-asp-net-vnext-series</link>
@@ -504,10 +507,10 @@
     
       <item>
         <title>Google&#39;s Blogger gets a refresh new look</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://twitter.com/cnet/statuses/109042801626464256&quot;&gt;cnet: Google&#39;s Blogger gets a refresh: http://t.co/N3ZRzKi&lt;/a&gt;: cnet: Google&#39;s Blogger gets a refresh: &lt;a href=&quot;http://t.co/N3ZRzKi&quot;&gt;http://t.co/N3ZRzKi&lt;/a&gt;
-&lt;div&gt;
-&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html&quot;&gt;http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html&lt;/a&gt;&lt;/div&gt;
+        <description>cnet: Google&#39;s Blogger gets a refresh: http://t.co/N3ZRzKi: cnet: Google&#39;s Blogger gets a refresh: http://t.co/N3ZRzKi
+
+
+http://buzz.blogger.com/2011/08/bloggers-fresh-new-look.html
 </description>
         <pubDate>Thu, 01 Sep 2011 08:52:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/googles-blogger-gets-a-refresh-new-look</link>
@@ -520,7 +523,7 @@
     
       <item>
         <title>Razor support in Umbraco 4.7</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;With Umbraco 4.6.1 in Jan,2011, they brought in one of the great feature to Umbraco CMS - &lt;strong&gt;Razor&lt;/strong&gt;. And with Umbraco 4.7 in March, 2011 they have matured the...</description>
+        <description>With Umbraco 4.6.1 in Jan,2011, they brought in one of the great feature to Umbraco CMS - Razor. And with Umbraco 4.7 in March, 2011 they have matured the made...</description>
         <pubDate>Mon, 07 Mar 2011 11:49:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/asp.net/cms/razor-support-in-umbraco-4-7</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/asp.net/cms/razor-support-in-umbraco-4-7</guid>
@@ -534,7 +537,7 @@
     
       <item>
         <title>Re-Usable jQuery Accordion for Umbraco</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;As a part of my umbraco based website &lt;a href=&quot;http://www.pbdesk.com/&quot; target=&quot;_blank&quot;&gt;www.PBDesk.com&lt;/a&gt;, I was developing learning interactions components which can be re-used in the &lt;a href=&quot;http://www.pbdesk.com/elearning.aspx&quot; target=&quot;_blank&quot;&gt;eLearning&lt;/a&gt; section of the...</description>
+        <description>As a part of my umbraco based website www.PBDesk.com, I was developing learning interactions components which can be re-used in the eLearning section of the website. Accordion &amp;amp; Tabs are...</description>
         <pubDate>Thu, 03 Feb 2011 14:05:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/elearning/re-usable-jquery-accordion-for-umbraco</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/elearning/re-usable-jquery-accordion-for-umbraco</guid>
@@ -546,7 +549,7 @@
     
       <item>
         <title>Razor support in Umbraco</title>
-        <description>&lt;div&gt; &lt;div&gt;Important Note!!!&lt;/div&gt; &lt;div&gt; &lt;p&gt;This post was written for Umbraco 4.6.1. Now new version 4.7 is available and there are certain notable changes in terms of Razor in Umbraco 4.7....</description>
+        <description>Important Note!!! This post was written for Umbraco 4.6.1. Now new version 4.7 is available and there are certain notable changes in terms of Razor in Umbraco 4.7. Please refer...</description>
         <pubDate>Tue, 25 Jan 2011 12:51:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/cms/razor-support-in-umbraco</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/cms/razor-support-in-umbraco</guid>
@@ -558,7 +561,7 @@
     
       <item>
         <title>Umbraco Razor Syntax for Breadcrumb</title>
-        <description>&lt;p&gt;Recently Umbraco team released new version 4.6.1 for Umbraco CMS engine and one of the great feature they added was the support for Razor syntax.&amp;#160; Yes, Umbraco now supports Razor...</description>
+        <description>Recently Umbraco team released new version 4.6.1 for Umbraco CMS engine and one of the great feature they added was the support for Razor syntax.&amp;#160; Yes, Umbraco now supports Razor...</description>
         <pubDate>Fri, 21 Jan 2011 14:58:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/cms/umbraco-razor-syntax-for-breadcrumb</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/cms/umbraco-razor-syntax-for-breadcrumb</guid>
@@ -570,7 +573,7 @@
     
       <item>
         <title>Canonical Url For Umbraco Using Razor Syntax</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Sometime back I wrote post about &lt;a href=&quot;http://blog.pbdesk.com/2011/01/canonical-url.html&quot;&gt;Canonical Urls&lt;/a&gt;. Indeed Canonical URLs is one of the important chapter of SEO and a way to avoid getting page rank getting...</description>
+        <description>Sometime back I wrote post about Canonical Urls. Indeed Canonical URLs is one of the important chapter of SEO and a way to avoid getting page rank getting distributed among...</description>
         <pubDate>Wed, 19 Jan 2011 14:48:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/seo/canonical-url-for-umbraco-using-razor-syntax</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/seo/canonical-url-for-umbraco-using-razor-syntax</guid>
@@ -582,7 +585,7 @@
     
       <item>
         <title>ASP.Net Open Source CMS</title>
-        <description>&lt;h3 align=&quot;center&quot;&gt;Umbraco Rocks!!!&lt;/h3&gt; &lt;p align=&quot;justify&quot;&gt;Since long I was thinking of writhing this post. I have been blogging since 2007 at &lt;a href=&quot;http://blog.pbdesk.com/&quot; target=&quot;_blank&quot;&gt;blog.PBDesk.com&lt;/a&gt; powered by Google Blogger. But blogs have...</description>
+        <description>Umbraco Rocks!!! Since long I was thinking of writhing this post. I have been blogging since 2007 at blog.PBDesk.com powered by Google Blogger. But blogs have there own limitations, I...</description>
         <pubDate>Tue, 18 Jan 2011 14:27:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/asp.net/cms/asp-net-open-source-cms</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/cms/asp-net-open-source-cms</guid>
@@ -598,7 +601,7 @@
     
       <item>
         <title>Canonical URLs for Umbraco</title>
-        <description>&lt;p&gt;In my previous post, i have discussed about &lt;a href=&quot;http://blog.pbdesk.com/2011/01/canonical-url.html&quot;&gt;Canonical URLs&lt;/a&gt; and its importance in SEO. In this post we will see how to implement Canonical Urls in an Umbraco...</description>
+        <description>In my previous post, i have discussed about Canonical URLs and its importance in SEO. In this post we will see how to implement Canonical Urls in an Umbraco based...</description>
         <pubDate>Mon, 03 Jan 2011 17:50:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/seo/canonical-urls-for-umbraco</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/seo/canonical-urls-for-umbraco</guid>
@@ -610,7 +613,7 @@
     
       <item>
         <title>Canonical URL</title>
-        <description>&lt;p&gt;URL Canonicalization (also refered as URL Normalization) is the process of picking the best url when there are several choices.&amp;#160; It is a process to determine if two syntactically different...</description>
+        <description>URL Canonicalization (also refered as URL Normalization) is the process of picking the best url when there are several choices.&amp;#160; It is a process to determine if two syntactically different...</description>
         <pubDate>Mon, 03 Jan 2011 17:29:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/seo/canonical-url</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/seo/canonical-url</guid>
@@ -622,7 +625,7 @@
     
       <item>
         <title>Free CDN Service – That too from Google!</title>
-        <description>&lt;p&gt;CDN - Content Delivery Network or Content Distribution Network &lt;/p&gt; &lt;h2&gt;What is CDN?&lt;/h2&gt; &lt;p align=&quot;justify&quot;&gt;As defined at &lt;a href=&quot;http://en.wikipedia.org/wiki/Content_delivery_network&quot; target=&quot;_blank&quot;&gt;wikipedia&lt;/a&gt;: &lt;/p&gt; &lt;p&gt;A content delivery network or content distribution network (CDN)...</description>
+        <description>CDN - Content Delivery Network or Content Distribution Network What is CDN? As defined at wikipedia: A content delivery network or content distribution network (CDN) is a system of computers...</description>
         <pubDate>Wed, 22 Dec 2010 18:22:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/google/free-cdn-service-that-too-from-google</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/google/free-cdn-service-that-too-from-google</guid>
@@ -634,7 +637,7 @@
     
       <item>
         <title>Using CDN hosted jQuery Library</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Very often, to use jQuery, jQueryUI and Themes we need to add reference(&amp;lt;script&amp;gt; tag) to these javascript libraries in our HTML and normally we host these .js files along...</description>
+        <description>Very often, to use jQuery, jQueryUI and Themes we need to add reference(&amp;lt;script&amp;gt; tag) to these javascript libraries in our HTML and normally we host these .js files along with...</description>
         <pubDate>Tue, 07 Dec 2010 15:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/google/javascript/microsoft/using-cdn-hosted-jquery-library</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/google/javascript/microsoft/using-cdn-hosted-jquery-library</guid>
@@ -650,7 +653,7 @@
     
       <item>
         <title>Using jQuery Scripts hosted @ Google</title>
-        <description>&lt;p&gt;As mentioned in my previous &lt;a href=&quot;http://blog.pbdesk.com/2010/12/using-cdn-hosted-jquery-library.html&quot;&gt;post&lt;/a&gt;, rather then hosting jQuery libraries on our sever we can directly use them from CDN services available from Microsoft &amp;amp; Google. And there...</description>
+        <description>As mentioned in my previous post, rather then hosting jQuery libraries on our sever we can directly use them from CDN services available from Microsoft &amp;amp; Google. And there are...</description>
         <pubDate>Tue, 07 Dec 2010 14:54:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/google/javascript/using-jquery-scripts-hosted-google</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/google/javascript/using-jquery-scripts-hosted-google</guid>
@@ -664,7 +667,7 @@
     
       <item>
         <title>Using jQuery Scripts hosted @ Microsoft</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;As mentioned in my &lt;a href=&quot;http://www.p-bhatt.com/2010/12/using-cdn-hosted-jquery-library.html&quot; target=&quot;_blank&quot;&gt;previous post&lt;/a&gt;, rather then hosting jQuery libraries on our sever we can directly use them from CDN services available from Microsoft &amp;amp; Google....</description>
+        <description>As mentioned in my previous post, rather then hosting jQuery libraries on our sever we can directly use them from CDN services available from Microsoft &amp;amp; Google. And there are...</description>
         <pubDate>Tue, 07 Dec 2010 14:53:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/javascript/microsoft/using-jquery-scripts-hosted-microsoft</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/microsoft/using-jquery-scripts-hosted-microsoft</guid>
@@ -678,7 +681,7 @@
     
       <item>
         <title>Trim() functionality in JavaScript</title>
-        <description>&lt;p&gt;Below is are the trim(), ltrim() and rtrim() functionality for strings in Javascript:&lt;/p&gt; &lt;pre style=&quot;border-bottom: #cecece 1px solid; border-left: #cecece 1px solid; padding-bottom: 5px; background-color: #fbfbfb; min-height: 40px; padding-left: 5px;...</description>
+        <description>Below is are the trim(), ltrim() and rtrim() functionality for strings in Javascript: /********** String Trim Utilites *********************/ String.prototype.trim = function () { return this.replace(/^s+|s+$/g, &amp;quot;&amp;quot;); } String.prototype.ltrim = function...</description>
         <pubDate>Tue, 30 Nov 2010 11:38:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/javascript/trim-functionality-in-javascript</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/trim-functionality-in-javascript</guid>
@@ -690,7 +693,7 @@
     
       <item>
         <title>String.Format() for JavaScript</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;.Net&#39;s &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.string.format(v=VS.100).aspx&quot; target=&quot;_blank&quot;&gt;String.Format&lt;/a&gt; is a very powerful method for working with strings and is one of my favorite utility which I have been using in C# &amp;amp; VB.net...</description>
+        <description>.Net&#39;s String.Format is a very powerful method for working with strings and is one of my favorite utility which I have been using in C# &amp;amp; VB.net since long. And...</description>
         <pubDate>Tue, 30 Nov 2010 11:33:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/javascript/string-format-for-javascript</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/string-format-for-javascript</guid>
@@ -702,7 +705,7 @@
     
       <item>
         <title>Mind Reader : This program probes your mind. Try it.</title>
-        <description>&lt;table cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; width=&quot;500&quot; border=&quot;0&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td valign=&quot;top&quot; width=&quot;100%&quot; bgcolor=&quot;#bbbbbb&quot;&gt; &lt;ul type=&quot;circle&quot;&gt; &lt;li&gt;Think of a number with 2 digits (ex: 54) &lt;/li&gt; &lt;li&gt;Subtract from this number its 2 digits...</description>
+        <description>Think of a number with 2 digits (ex: 54) Subtract from this number its 2 digits (ex: 54 - 5 - 4 = 45) Find the symbol that corresponds to...</description>
         <pubDate>Fri, 07 May 2010 16:41:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/mind-reader-this-program-probes-your-mind-try-it</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/mind-reader-this-program-probes-your-mind-try-it</guid>
@@ -714,7 +717,7 @@
     
       <item>
         <title>Drop All Objects in SQL Server</title>
-        <description>&lt;p&gt;Below is the T-SQL script for dropping all the objects from a database in SQL Server. This script in particular drops Procedures, Functions, Tables, Views and Types. For other database...</description>
+        <description>Below is the T-SQL script for dropping all the objects from a database in SQL Server. This script in particular drops Procedures, Functions, Tables, Views and Types. For other database...</description>
         <pubDate>Thu, 01 Apr 2010 16:58:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/drop-all-objects-in-sql-server</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/drop-all-objects-in-sql-server</guid>
@@ -726,7 +729,7 @@
     
       <item>
         <title>Visual Studio 2010 RC is now available</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Finally, long awaited Microsoft Visual Studio 2010 Release Candidate with .Net Framework 4.0 and ASP.Net 4.0 was made publically available on 10th Feb, 2010.&lt;/p&gt; &lt;p align=&quot;justify&quot;&gt;I downloaded and installed...</description>
+        <description>Finally, long awaited Microsoft Visual Studio 2010 Release Candidate with .Net Framework 4.0 and ASP.Net 4.0 was made publically available on 10th Feb, 2010. I downloaded and installed it successfully,...</description>
         <pubDate>Thu, 11 Feb 2010 23:45:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/asp.net/visual-studio-2010-rc-is-now-available</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/visual-studio-2010-rc-is-now-available</guid>
@@ -740,7 +743,7 @@
     
       <item>
         <title>Null Object Design Pattern</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Null Object design pattern – alternatively returning &lt;em&gt;&lt;strong&gt;null object&lt;/strong&gt;&lt;/em&gt; instead of ‘&lt;em&gt;&lt;strong&gt;Null&lt;/strong&gt;’&lt;/em&gt; to avoid repeatedly checking for null values within code.&lt;/p&gt; &lt;p align=&quot;justify&quot;&gt;In the object oriented programming realm it&#39;s...</description>
+        <description>Null Object design pattern – alternatively returning null object instead of ‘Null’ to avoid repeatedly checking for null values within code. In the object oriented programming realm it&#39;s very common...</description>
         <pubDate>Wed, 03 Feb 2010 14:35:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/design%20patterns/null-object-design-pattern</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/design%20patterns/null-object-design-pattern</guid>
@@ -754,7 +757,7 @@
     
       <item>
         <title>C# : News Updates</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color: #444444;&quot;&gt;[wp_rss_multi_importer category=&quot;5&quot;]&lt;/span&gt;&lt;/p&gt;
+        <description>[wp_rss_multi_importer category=&quot;5&quot;]
 </description>
         <pubDate>Fri, 13 Nov 2009 17:39:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/dotnet/c%23/c-news-updates</link>
@@ -773,7 +776,7 @@
     
       <item>
         <title>Facebook Membership Provider</title>
-        <description>&lt;h2&gt;Introduction&lt;/h2&gt; &lt;p align=&quot;justify&quot;&gt;One of the great new features introduced in ASP.NET 2.0 was the use of the &amp;quot;&lt;em&gt;Provider Model&lt;/em&gt;&amp;quot; which provides flexibility and extensibility to your Web applications. Using the...</description>
+        <description>Introduction One of the great new features introduced in ASP.NET 2.0 was the use of the &amp;quot;Provider Model&amp;quot; which provides flexibility and extensibility to your Web applications. Using the provider...</description>
         <pubDate>Fri, 13 Nov 2009 12:27:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/asp.net/facebook/facebook-membership-provider</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/asp.net/facebook/facebook-membership-provider</guid>
@@ -789,7 +792,7 @@
     
       <item>
         <title>At last I am on the Google Wave :)</title>
-        <description>&lt;p&gt;Yes at last i am on the wave with sandbox access account &lt;a href=&quot;mailto:pinal.bhatt@wavesandbox.com&quot;&gt;pinal.bhatt@wavesandbox.com&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Below is my first wave embedded&amp;#160; into my blog using&amp;#160; Google Wave Embed APIs. Those with...</description>
+        <description>Yes at last i am on the wave with sandbox access account pinal.bhatt@wavesandbox.com. Below is my first wave embedded&amp;#160; into my blog using&amp;#160; Google Wave Embed APIs. Those with wave...</description>
         <pubDate>Tue, 13 Oct 2009 15:07:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/at-last-i-am-on-the-google-wave</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/at-last-i-am-on-the-google-wave</guid>
@@ -801,7 +804,7 @@
     
       <item>
         <title>Reading Query String with JavaScript</title>
-        <description>&lt;p&gt;When you google on this topic you will find many ways to get Query String parameters &amp;amp; its values using JavaScript. Below is one of the smallest, easiest and a...</description>
+        <description>When you google on this topic you will find many ways to get Query String parameters &amp;amp; its values using JavaScript. Below is one of the smallest, easiest and a...</description>
         <pubDate>Wed, 07 Oct 2009 11:40:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/javascript/reading-query-string-with-javascript</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/reading-query-string-with-javascript</guid>
@@ -813,7 +816,7 @@
     
       <item>
         <title>Google - I am falling in love</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;Google is simply getting awesome day by day. Though I am a Microsoft guy and still a Microsoft lover, slowly i have started developing fondness for Google.&lt;/p&gt; &lt;p align=&quot;justify&quot;&gt;Google...</description>
+        <description>Google is simply getting awesome day by day. Though I am a Microsoft guy and still a Microsoft lover, slowly i have started developing fondness for Google. Google - synonym...</description>
         <pubDate>Wed, 23 Sep 2009 16:49:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/google-i-am-falling-in-love</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/google-i-am-falling-in-love</guid>
@@ -825,7 +828,7 @@
     
       <item>
         <title>Pinal Bhatt Online – My aggregated web activities</title>
-        <description>&lt;p&gt;&lt;iframe height=&quot;1800&quot; src=&quot;http://www.Learning-Leisure.com/AF/Default.aspx&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Tue, 22 Sep 2009 12:31:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/pinal-bhatt-online-my-aggregated-web-activities</link>
@@ -838,7 +841,7 @@
     
       <item>
         <title>Chat with Author(Pinal Bhatt)</title>
-        <description>&lt;p&gt;Welcome, you can have private chat with me here. &lt;center&gt; &lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;http://wgweb.msg.yahoo.com/badge/Pingbox.swf&quot; width=&quot;500&quot; height=&quot;420&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://wgweb.msg.yahoo.com/badge/Pingbox.swf&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;flashvars&quot; value=&quot;wid=Nfo3Q92rSmwPpQ_ZLD4C1P9gUDo-&quot; /&gt;&lt;/object&gt; &lt;/center&gt; &lt;p&gt; Alternatively you can also...</description>
+        <description>Welcome, you can have private chat with me here. Alternatively you can also use this link to have a chat with me. Chat with Pinal Bhatt Thanks for visiting www.P-Bhatt.com....</description>
         <pubDate>Mon, 14 Sep 2009 13:41:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/chat-with-authorpinal-bhatt</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/chat-with-authorpinal-bhatt</guid>
@@ -850,7 +853,7 @@
     
       <item>
         <title>Social Bookmarking : Links/Urls</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;“&lt;strong&gt;Social Bookmarking&lt;/strong&gt;” - An another buzz word parallel to “&lt;strong&gt;Social Networking&lt;/strong&gt;”. Lets see what it is and how to provide links on your WebPages/Websites for social bookmarking.&lt;/p&gt; &lt;h2&gt;What is...</description>
+        <description>“Social Bookmarking” - An another buzz word parallel to “Social Networking”. Lets see what it is and how to provide links on your WebPages/Websites for social bookmarking. What is Social...</description>
         <pubDate>Wed, 29 Jul 2009 11:10:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/social-bookmarking-linksurls</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/social-bookmarking-linksurls</guid>
@@ -862,7 +865,7 @@
     
       <item>
         <title>Demo : Picasa DataProvider for Vertigo Slide Show 2.1</title>
-        <description>&lt;p&gt;Picasa DataProvider for Vertigo Slide.Show 2 is an open source extension to the original Slide.Show 2 by Vertigo. (Based on release 2.1 dated 13-Jul-2009). Slide.Show 2 is an open source...</description>
+        <description>Picasa DataProvider for Vertigo Slide.Show 2 is an open source extension to the original Slide.Show 2 by Vertigo. (Based on release 2.1 dated 13-Jul-2009). Slide.Show 2 is an open source...</description>
         <pubDate>Mon, 20 Jul 2009 09:03:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/json/demo-picasa-dataprovider-for-vertigo-slide-show-2-1</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/json/demo-picasa-dataprovider-for-vertigo-slide-show-2-1</guid>
@@ -874,7 +877,7 @@
     
       <item>
         <title>FireFox : Add-ons &amp; Plug-ins for Web Developers</title>
-        <description>&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt; &lt;p&gt;&lt;b&gt;Mozilla Firefox&lt;/b&gt; - I love this browser. Though I don&#39;t use most! Yes I am a .Net guy so mostly I am on IE and IE8 is much...</description>
+        <description>Mozilla Firefox - I love this browser. Though I don&#39;t use most! Yes I am a .Net guy so mostly I am on IE and IE8 is much better now....</description>
         <pubDate>Wed, 08 Jul 2009 12:15:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/firefox-add-ons-plug-ins-for-web-developers</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/firefox-add-ons-plug-ins-for-web-developers</guid>
@@ -886,7 +889,7 @@
     
       <item>
         <title>jQuery UI Demo : Theme - Slate</title>
-        <description>&lt;p&gt; This page demonstrates the the use of jQuery UI Themes in Blogger/Blogspot.&lt;br /&gt; &lt;br /&gt; To know how I achieved this, view my post : &lt;a href=&quot;http://www.p-bhatt.com/2009/02/using-jquery-ui-theme-in-bloggercom.html&quot;&gt;Using jQuery UI...</description>
+        <description>This page demonstrates the the use of jQuery UI Themes in Blogger/Blogspot. To know how I achieved this, view my post : Using jQuery UI Themes in Blogger/Blogspot jQuery UI...</description>
         <pubDate>Tue, 07 Jul 2009 21:52:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/jquery-ui-demo-theme-slate</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/jquery-ui-demo-theme-slate</guid>
@@ -898,7 +901,7 @@
     
       <item>
         <title>jQuery UI Demo : Theme - Blue</title>
-        <description>&lt;p&gt; This page demonstrates the the use of jQuery UI Themes in Blogger/Blogspot.&lt;br /&gt; &lt;br /&gt; To know how I achieved this, view my post : &lt;a href=&quot;http://www.p-bhatt.com/2009/02/using-jquery-ui-theme-in-bloggercom.html&quot;&gt;Using jQuery UI...</description>
+        <description>This page demonstrates the the use of jQuery UI Themes in Blogger/Blogspot. To know how I achieved this, view my post : Using jQuery UI Themes in Blogger/Blogspot jQuery UI...</description>
         <pubDate>Tue, 07 Jul 2009 11:57:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/jquery-ui-demo-theme-blue</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/jquery-ui-demo-theme-blue</guid>
@@ -910,7 +913,7 @@
     
       <item>
         <title>jQuery UI Demo : Theme - Simple</title>
-        <description>&lt;p&gt; This page demonstrates the the use of jQuery UI Themes in Blogger/Blogspot.&lt;br /&gt; &lt;br /&gt; To know how I achieved this, view my post : &lt;a href=&quot;http://www.p-bhatt.com/2009/02/using-jquery-ui-theme-in-bloggercom.html&quot;&gt;Using jQuery UI...</description>
+        <description>This page demonstrates the the use of jQuery UI Themes in Blogger/Blogspot. To know how I achieved this, view my post : Using jQuery UI Themes in Blogger/Blogspot jQuery UI...</description>
         <pubDate>Tue, 07 Jul 2009 09:27:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/jquery-ui-demo-theme-simple</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/jquery-ui-demo-theme-simple</guid>
@@ -922,8 +925,8 @@
     
       <item>
         <title>My Delicious Bookmarks</title>
-        <description>&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
-&lt;/div&gt;
+        <description>
+
 </description>
         <pubDate>Wed, 01 Jul 2009 10:42:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/my-delicious-bookmarks</link>
@@ -936,7 +939,18 @@
     
       <item>
         <title>My Social Networks</title>
-        <description>&lt;p&gt;Welcome to My Social Networks:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.facebook.com/pinal.bhatt&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;margin: 0px 40px 0px 0px; display: inline&quot; align=&quot;left&quot; src=&quot;assets/facebook-icon.png&quot; width=&quot;128&quot; height=&quot;138&quot; /&gt;&lt;/a&gt; &lt;br /&gt;&lt;a title=&quot;Pinal Bhatt&#39;s Facebook Profile&quot; href=&quot;http://www.facebook.com/pinal.bhatt&quot; target=&quot;_TOP&quot;&gt;&lt;img style=&quot;border-right-width: 0px;...</description>
+        <description>Welcome to My Social Networks:
+     
+  
+http://twitter.com/pinalbhatt
+&amp;#160;
+Read recent tweets by Pinal Bhatt
+&amp;#160;
+ 
+View    &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; 
+&amp;#160;
+
+</description>
         <pubDate>Sun, 28 Jun 2009 16:37:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/my-social-networks</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/my-social-networks</guid>
@@ -948,7 +962,26 @@
     
       <item>
         <title>Subscribe RSS Feeds</title>
-        <description>&lt;p&gt;&lt;img style=&quot;border-bottom: 0px; border-left: 0px; margin: 0px 25px 0px 0px; display: inline; border-top: 0px; border-right: 0px&quot; title=&quot;rss-128x128&quot; border=&quot;0&quot; alt=&quot;rss-128x128&quot; align=&quot;left&quot; src=&quot;assets/rss-128x128%5B9%5D.png?imgmax=800&quot; width=&quot;128&quot; height=&quot;128&quot; /&gt; &lt;/p&gt; &lt;p&gt;Subscribe to syndications from Pinal...</description>
+        <description> 
+Subscribe to syndications from Pinal Bhatt&#39;s Blog. 
+Click on your choice below to add feeds to reader of your preference.
+&amp;#160;
+ 
+
+
+
+
+XML                                                                                                                                                                                                    R|Mail                               
+
+
+                                                                                                                                                                     
+                
+
+
+
+
+ 
+</description>
         <pubDate>Wed, 24 Jun 2009 13:51:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/subscribe-rss-feeds</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/subscribe-rss-feeds</guid>
@@ -960,7 +993,7 @@
     
       <item>
         <title>Learning F#</title>
-        <description>&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;b&gt;F#&lt;/b&gt; - a new buzz word in the market. With .Net Framework 4.0 Microsoft is also planning to release F# - a multi-paradigm, strongly typed,&amp;nbsp; functional programming language. &lt;/p&gt;...</description>
+        <description>F# - a new buzz word in the market. With .Net Framework 4.0 Microsoft is also planning to release F# - a multi-paradigm, strongly typed,&amp;nbsp; functional programming language. I have...</description>
         <pubDate>Tue, 16 Jun 2009 13:51:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/.net/learning-f</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/learning-f</guid>
@@ -984,7 +1017,8 @@
     
       <item>
         <title>My Facebook : Pinal Bhatt</title>
-        <description>&lt;p&gt;&lt;!-- Facebook Badge START --&gt;&lt;a href=&quot;http://www.facebook.com/pinal.bhatt&quot; title=&quot;Pinal Bhatt&#39;s Facebook Profile&quot; target=&quot;_TOP&quot; style=&quot;font-family: &amp;quot;lucida grande&amp;quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;&quot;&gt;Pinal Bhatt&#39;s Profile&lt;/a&gt;&amp;nbsp;|&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/badges.php&quot; title=&quot;Make...</description>
+        <description>Pinal Bhatt&#39;s Profile&amp;nbsp;|&amp;nbsp;Create Your Badge
+</description>
         <pubDate>Sun, 14 Jun 2009 10:51:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/my-facebook-pinal-bhatt</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/my-facebook-pinal-bhatt</guid>
@@ -996,7 +1030,7 @@
     
       <item>
         <title>Facebook - My Friends Carousel</title>
-        <description>&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;iframe allowtransparency=&quot;true&quot; frameborder=&quot;no&quot; src=&quot;http://www.popfly.com/users/378837/Facebook%20-%20My%20Friends%20Carousel.small&quot; style=&quot;width:525px; height:500px;&quot; scrolling=&quot;no&quot; /&gt;&lt;/div&gt;
+        <description>
 </description>
         <pubDate>Tue, 09 Jun 2009 15:44:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/facebook-my-friends-carousel</link>
@@ -1009,10 +1043,10 @@
     
       <item>
         <title>Twitter Tweets by Pinal Bhatt</title>
-        <description>&lt;div&gt;
-&lt;h2 style=&quot;display: none;&quot;&gt;Twitter Updates&lt;/h2&gt;
-&lt;ul&gt;&lt;/ul&gt;
-&lt;p&gt; &lt;a href=&quot;http://twitter.com/pinalbhatt&quot; style=&quot;display:block;text-align:right;&quot;&gt;follow me on Twitter&lt;/a&gt; &lt;/div&gt;
+        <description>
+Twitter Updates
+
+ follow me on Twitter 
 </description>
         <pubDate>Fri, 05 Jun 2009 12:26:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/twitter-tweets-by-pinal-bhatt</link>
@@ -1025,7 +1059,7 @@
     
       <item>
         <title>Assessment Center (Ver1.0) Scope</title>
-        <description>&lt;h2 style=&quot;text-align: center;&quot;&gt;Learning-Leisure : Assessment Center (Ver 1.0)&lt;/h2&gt; &lt;div&gt; &lt;table border=&quot;0&quot; bordercolor=&quot;#000000&quot; cellpadding=&quot;3&quot; cellspacing=&quot;0&quot; width=&quot;648&quot; height=&quot;112&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td width=&quot;50%&quot;&gt;Project :&lt;/td&gt; &lt;td width=&quot;50%&quot;&gt;Assessment Center (Ver 1.0)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td width=&quot;50%&quot;&gt;Base...</description>
+        <description>Learning-Leisure : Assessment Center (Ver 1.0) Project : Assessment Center (Ver 1.0) Base Project : www.Learning-Leisure.com Document Purpose : Defining scope for Version 1.0 of Assessment Center Current Document Version...</description>
         <pubDate>Fri, 22 May 2009 09:15:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/assessment-center-ver1-0-scope</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/assessment-center-ver1-0-scope</guid>
@@ -1037,7 +1071,7 @@
     
       <item>
         <title>Uploading files to FTP server using ASP.Net</title>
-        <description>&lt;p&gt;Uploading files using &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.fileupload.aspx&quot; target=&quot;_blank&quot;&gt;FileUpload&lt;/a&gt; server control is very common and easy with ASP.Net. But normally in this method files are uploaded to the hard disk of the web...</description>
+        <description>Uploading files using FileUpload server control is very common and easy with ASP.Net. But normally in this method files are uploaded to the hard disk of the web server. Here...</description>
         <pubDate>Sat, 28 Mar 2009 15:45:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/asp.net/uploading-files-to-ftp-server-using-asp-net</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/asp.net/uploading-files-to-ftp-server-using-asp-net</guid>
@@ -1049,7 +1083,7 @@
     
       <item>
         <title>Pinal Bhatt’s Blog - Learning endeavor for ever…</title>
-        <description>&lt;p&gt;&lt;span style=&quot;font-size: 85%&quot;&gt;Welcome to my own Blog! &lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;margin-top: -20px&quot; align=&quot;justify&quot;&gt;&lt;span style=&quot;font-size: 85%&quot;&gt;On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.NET, C#, VB.Net, Silverlight, JavaScript, Design...</description>
+        <description>Welcome to my own Blog! On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.NET, C#, VB.Net, Silverlight, JavaScript, Design Patterns and other random thoughts and opinions. Articles...</description>
         <pubDate>Wed, 18 Mar 2009 07:01:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/pinal-bhatts-blog-learning-endeavor-for-ever</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/pinal-bhatts-blog-learning-endeavor-for-ever</guid>
@@ -1061,7 +1095,7 @@
     
       <item>
         <title>C# Tutorial</title>
-        <description>&lt;p&gt;Welcome to C# Tutorials. &lt;br /&gt;This is an attempt to provide the systematic &amp; strategic learning track/guide for the candidates looking forward to learn and master C#.&lt;/p&gt; &lt;p style=&quot;text-align:center&quot;&gt;&lt;b&gt;Table of...</description>
+        <description>Welcome to C# Tutorials. This is an attempt to provide the systematic &amp; strategic learning track/guide for the candidates looking forward to learn and master C#. Table of contents(C# 3.0...</description>
         <pubDate>Tue, 17 Mar 2009 06:24:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/.net/c-tutorial</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-tutorial</guid>
@@ -1073,7 +1107,7 @@
     
       <item>
         <title>Learning Pathway for .Net</title>
-        <description>&lt;p&gt;Just as in life, you need to know at least one language of communication for your survival, to swim the ocean of .Net you need to know at least one...</description>
+        <description>Just as in life, you need to know at least one language of communication for your survival, to swim the ocean of .Net you need to know at least one...</description>
         <pubDate>Tue, 17 Mar 2009 06:13:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/.net/learning-pathway-for-net</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/learning-pathway-for-net</guid>
@@ -1085,7 +1119,7 @@
     
       <item>
         <title>Pinal Bhatt’s Blog - Learning endeavor for ever…</title>
-        <description>&lt;p&gt;Welcome to my own Blog! &lt;/p&gt; &lt;p style=&quot;margin-top: -20px&quot; align=&quot;justify&quot;&gt;On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.NET, C#, VB.Net, Silverlight, JavaScript, Design Patterns and other random...</description>
+        <description>Welcome to my own Blog! On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.NET, C#, VB.Net, Silverlight, JavaScript, Design Patterns and other random thoughts and opinions. To...</description>
         <pubDate>Thu, 26 Feb 2009 20:47:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/pinal-bhatts-blog-learning-endeavor-for-ever-2</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/pinal-bhatts-blog-learning-endeavor-for-ever-2</guid>
@@ -1097,7 +1131,7 @@
     
       <item>
         <title>My Picture Gallery</title>
-        <description>&lt;p&gt;Welcome to my Picture Gallary.&lt;/p&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-1&quot;&gt;Tanaya&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-2&quot;&gt;2007&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-3&quot;&gt;2008&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-4&quot;&gt;Others&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;h3&gt;&lt;a href=&quot;http://blog.pbdesk.com/#&quot;&gt;Tanaya&#39;s Birthday Parties&lt;/a&gt;&lt;/h3&gt; &lt;div&gt; &lt;table cellpadding=&quot;5&quot; cellspacing=&quot;5&quot; border=&quot;0&quot;&gt; &lt;tr&gt; &lt;td...</description>
+        <description>Welcome to my Picture Gallary. Tanaya 2007 2008 Others Tanaya&#39;s Birthday Parties 1st Birthday : March 1st, 2006, Baroda, India View 2nd Birthday : March 1st, 2007, Pune, India View...</description>
         <pubDate>Wed, 25 Feb 2009 17:07:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/my-picture-gallery</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/my-picture-gallery</guid>
@@ -1109,7 +1143,7 @@
     
       <item>
         <title>What is minified JavaScript?</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;&lt;b&gt;Minification&lt;/b&gt; (very often just &lt;b&gt;minify&lt;/b&gt;, and sometimes also &lt;b&gt;minimisation&lt;/b&gt; or &lt;b&gt;minimization&lt;/b&gt;), is the practice of removing unnecessary characters from code to reduce its size thereby improving load times. When...</description>
+        <description>Minification (very often just minify, and sometimes also minimisation or minimization), is the practice of removing unnecessary characters from code to reduce its size thereby improving load times. When code...</description>
         <pubDate>Tue, 24 Feb 2009 22:59:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/javascript/what-is-minified-javascript</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/what-is-minified-javascript</guid>
@@ -1121,7 +1155,7 @@
     
       <item>
         <title>Using jQuery UI Theme in Blogger.com</title>
-        <description>&lt;p&gt;&lt;strong&gt;jQuery UI&lt;/strong&gt; provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly...</description>
+        <description>jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly...</description>
         <pubDate>Mon, 23 Feb 2009 23:12:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/using-jquery-ui-theme-in-blogger-com</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/using-jquery-ui-theme-in-blogger-com</guid>
@@ -1133,7 +1167,7 @@
     
       <item>
         <title>Pics of Winter Dec’2008</title>
-        <description>&lt;p&gt;&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;http://picasaweb.google.com/s/c/bin/slideshow.swf&quot; width=&quot;800&quot; height=&quot;533&quot; flashvars=&quot;host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fpinalbhatt%2Falbumid%2F5304720298402407121%3Fkind%3Dphoto%26alt%3Drss&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Thu, 19 Feb 2009 23:58:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/pics-of-winter-dec2008</link>
@@ -1146,7 +1180,7 @@
     
       <item>
         <title>Downloading Videos from YouTube &amp; Other sources</title>
-        <description>&lt;p&gt;Since long I was looking for proper method to download videos from YouTube and other websites showing streaming videos. At last, I found one easy way to download videos from...</description>
+        <description>Since long I was looking for proper method to download videos from YouTube and other websites showing streaming videos. At last, I found one easy way to download videos from...</description>
         <pubDate>Mon, 16 Feb 2009 05:52:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/video/youtube/downloading-videos-from-youtube-other-sources</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/video/youtube/downloading-videos-from-youtube-other-sources</guid>
@@ -1172,7 +1206,7 @@
     
       <item>
         <title>Resource Center : C#</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://lh3.ggpht.com/-cWiMr70l8kM/T9-CsA0zjQI/AAAAAAAAFC8/gboDmqP-NBQ/s1600-h/c-sharp-green%25255B7%25255D.png&quot;&gt;&lt;img style=&quot;background-image: none; border-right-width: 0px; margin: 0px 22px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px&quot; title=&quot;c-sharp-green&quot; border=&quot;0&quot; alt=&quot;c-sharp-green&quot;...</description>
+        <description>Important Links: Official Homepage Wikipedia Link-1 Wikipedia Link-2 C# Community Articles&amp;#160; C# @ MSDN Magazine C# @ Channel 9 C# Forums C#: How Do I? Videos &amp;#160; C# News Updates...</description>
         <pubDate>Fri, 06 Feb 2009 15:43:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/dotnet/resource-center-c</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/dotnet/resource-center-c</guid>
@@ -1184,7 +1218,7 @@
     
       <item>
         <title>Resource Center  : Visual Basic</title>
-        <description>&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;Hello : VB&lt;/div&gt;
+        <description>Hello : VB
 </description>
         <pubDate>Fri, 06 Feb 2009 15:42:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/resource-center-visual-basic</link>
@@ -1209,7 +1243,7 @@
     
       <item>
         <title>Resource Center : .Net 4.0</title>
-        <description>&lt;div xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;Hello : .Net 4.0&lt;/div&gt;
+        <description>Hello : .Net 4.0
 </description>
         <pubDate>Fri, 06 Feb 2009 15:42:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/resource-center-net-4-0</link>
@@ -1222,7 +1256,7 @@
     
       <item>
         <title>Hello, World!</title>
-        <description>&lt;p&gt;Welcome to my Picture Gallary.&lt;/p&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-1&quot;&gt;Tanaya&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-2&quot;&gt;2007&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-3&quot;&gt;2008&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://blog.pbdesk.com/#tabs-4&quot;&gt;Others&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;h3&gt;&lt;a href=&quot;http://blog.pbdesk.com/#&quot;&gt;Tanaya&#39;s Birthday Parties&lt;/a&gt;&lt;/h3&gt; &lt;div&gt; &lt;table cellpadding=&quot;5&quot; cellspacing=&quot;5&quot; border=&quot;0&quot;&gt; &lt;tr&gt; &lt;td...</description>
+        <description>Welcome to my Picture Gallary. Tanaya 2007 2008 Others Tanaya&#39;s Birthday Parties 1st Birthday : March 1st, 2006, Baroda, India View 2nd Birthday : March 1st, 2007, Pune, India View...</description>
         <pubDate>Fri, 06 Feb 2009 15:42:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/hello-world-2</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/hello-world-2</guid>
@@ -1246,7 +1280,7 @@
     
       <item>
         <title>Tools &amp; Utilities for developers</title>
-        <description>&lt;p&gt;Here is the list of utility softwares that I commonly use&amp;#160; to assist and enhance my development productivity: &lt;/p&gt; &lt;div&gt; &lt;div&gt;My Favorite Utility Softwares &lt;/div&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt;Notepad++ &lt;/li&gt; &lt;li&gt;Agent...</description>
+        <description>Here is the list of utility softwares that I commonly use&amp;#160; to assist and enhance my development productivity: My Favorite Utility Softwares Notepad++ Agent Ransack WinMerge Fiddler Firebug .Net Reflector...</description>
         <pubDate>Fri, 30 Jan 2009 11:36:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/tools-utilities-for-developers</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/tools-utilities-for-developers</guid>
@@ -1270,7 +1304,8 @@
     
       <item>
         <title>Silverlight Slide show</title>
-        <description>&lt;p&gt;&lt;object type=&quot;application/x-silverlight-2&quot; data=&quot;data:application/x-silverlight-2,&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;param name=&quot;background&quot; value=&quot;#fff&quot; /&gt;&lt;param name=&quot;source&quot; value=&quot;http://www.Learning-Leisure.com/ClientBin/Vertigo.SlideShow.xap&quot; /&gt;&lt;param name=&quot;enableHtmlAccess&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;initParams&quot; value=&quot;ConfigurationProvider=DarkTheme,DataProvider=PicasaDataProvider;PicasaId=pb.blog.dummy;Albums=Vertigo Collection^^Mix and Match&quot; /&gt;&lt;a href=&quot;http://go.microsoft.com/fwlink/?LinkID=124807&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;img src=&quot;assets/?LinkId=108181&quot; alt=&quot;Get Microsoft Silverlight&quot; style=&quot;border-style: none&quot; /&gt;&lt;/a&gt;...</description>
+        <description> 		
+</description>
         <pubDate>Thu, 29 Jan 2009 00:15:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/silverlight-slide-show</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/silverlight-slide-show</guid>
@@ -1294,14 +1329,14 @@
     
       <item>
         <title>Regular Expressions in JavaScript</title>
-        <description>&lt;p&gt;&amp;#160;&lt;/p&gt;
-&lt;p&gt;&amp;#160;&lt;/p&gt;
-&lt;p&gt;&amp;#160;&lt;/p&gt;
-&lt;p&gt;&amp;#160;&lt;/p&gt;
-&lt;p&gt;Links&lt;/p&gt;
-&lt;p&gt;&lt;a title=&quot;http://www.java2s.com/Tutorial/JavaScript/0520__Regular-Expressions/Catalog0520__Regular-Expressions.htm&quot; href=&quot;http://www.java2s.com/Tutorial/JavaScript/0520__Regular-Expressions/Catalog0520__Regular-Expressions.htm&quot;&gt;http://www.java2s.com/Tutorial/JavaScript/0520__Regular-Expressions/Catalog0520__Regular-Expressions.htm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a title=&quot;http://www.evolt.org/article/Regular_Expressions_in_JavaScript/17/36435/&quot; href=&quot;http://www.evolt.org/article/Regular_Expressions_in_JavaScript/17/36435/&quot;&gt;http://www.evolt.org/article/Regular_Expressions_in_JavaScript/17/36435/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a title=&quot;http://www.javascriptkit.com/javatutors/re4.shtml&quot; href=&quot;http://www.javascriptkit.com/javatutors/re4.shtml&quot;&gt;http://www.javascriptkit.com/javatutors/re4.shtml&lt;/a&gt;&lt;/p&gt;
+        <description>&amp;#160;
+&amp;#160;
+&amp;#160;
+&amp;#160;
+Links
+http://www.java2s.com/Tutorial/JavaScript/0520__Regular-Expressions/Catalog0520__Regular-Expressions.htm
+http://www.evolt.org/article/Regular_Expressions_in_JavaScript/17/36435/
+http://www.javascriptkit.com/javatutors/re4.shtml
 </description>
         <pubDate>Thu, 22 Jan 2009 07:37:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/regular-expressions-in-javascript</link>
@@ -1314,7 +1349,7 @@
     
       <item>
         <title>Code for Strip Html Tags</title>
-        <description>&lt;h2&gt;Javascript Code to Strip HTML tags from string&lt;/h2&gt; &lt;div&gt; &lt;div&gt; &lt;pre&gt;&lt;span&gt; 1:&lt;/span&gt; &lt;span&gt;function&lt;/span&gt; StripHTMLAndTrim(text) &lt;/pre&gt; &lt;p&gt;&lt;!--CRLF--&gt;&lt;/p&gt; &lt;pre&gt;&lt;span&gt; 2:&lt;/span&gt; {&lt;/pre&gt; &lt;p&gt;&lt;!--CRLF--&gt;&lt;/p&gt; &lt;pre&gt;&lt;span&gt; 3:&lt;/span&gt; &lt;span&gt;var&lt;/span&gt; htmlStriper = /&amp;lt;(?:.|s)*?&amp;gt;/g;&lt;/pre&gt; &lt;p&gt;&lt;!--CRLF--&gt;&lt;/p&gt; &lt;pre&gt;&lt;span&gt; 4:&lt;/span&gt; text...</description>
+        <description>Javascript Code to Strip HTML tags from string 1: function StripHTMLAndTrim(text) 2: { 3: var htmlStriper = /&amp;lt;(?:.|s)*?&amp;gt;/g; 4: text = text.replace(htmlStriper, &amp;quot; &amp;quot;); 5: while (text.indexOf(&amp;quot; &amp;quot;) &amp;gt;= 0)...</description>
         <pubDate>Thu, 22 Jan 2009 07:37:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/code-for-strip-html-tags</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/code-for-strip-html-tags</guid>
@@ -1362,7 +1397,7 @@
     
       <item>
         <title>Gadgets</title>
-        <description>&lt;p&gt;&lt;iframe src=&quot;http://pinalbhatt.googlepages.com/Gadgets.htm&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;600px&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Wed, 14 Jan 2009 16:49:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/gadgets</link>
@@ -1375,7 +1410,7 @@
     
       <item>
         <title>Contact Author (Pinal Bhatt)</title>
-        <description>&lt;h2&gt;About Me&lt;/h2&gt; &lt;p&gt;To know more about myself, visit &lt;a href=&quot;http://pinal-bhatt.blogspot.com/2009/01/about-author.html&quot;&gt;My Profile&lt;/a&gt;.&lt;/p&gt; &lt;h2&gt;Email To Me&lt;/h2&gt; &lt;p&gt;You can email me at &lt;a href=&quot;mailto:self@p-bhatt.com&quot;&gt;self@p-bhatt.com&lt;/a&gt; &lt;/p&gt; &lt;h2&gt;Chat With Me&lt;/h2&gt; &lt;p&gt;If I am available online...</description>
+        <description>About Me To know more about myself, visit My Profile. Email To Me You can email me at self@p-bhatt.com Chat With Me If I am available online you can chat...</description>
         <pubDate>Sat, 10 Jan 2009 19:03:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/contact-author-pinal-bhatt</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/contact-author-pinal-bhatt</guid>
@@ -1399,7 +1434,23 @@
     
       <item>
         <title>Recent Posts</title>
-        <description>&lt;p&gt;something here&lt;/p&gt; &lt;div&gt; &lt;h2&gt;ezCool Jiglu&lt;/h2&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;&lt;/div&gt; &lt;p&gt;&lt;span&gt;&lt;br /&gt; &lt;span&gt;&lt;br /&gt; &lt;a href=&quot;http://www.blogger.com/rearrange?blogID=8858083230500505227&amp;amp;widgetType=HTML&amp;amp;widgetId=HTML1&amp;amp;action=editWidget&quot; target=&quot;configHTML1&quot; title=&quot;Edit&quot;&gt;&lt;br /&gt; &lt;img alt=&quot;&quot; height=&quot;18&quot; src=&quot;assets/icon18_wrench_allbkg.png&quot; width=&quot;18&quot; /&gt;&lt;br /&gt; &lt;/a&gt;&lt;br /&gt; &lt;/span&gt;&lt;br /&gt; &lt;/span&gt;&lt;/p&gt; &lt;div&gt;&lt;/div&gt;...</description>
+        <description>something here
+
+ezCool Jiglu
+
+
+
+
+
+
+
+
+
+
+
+
+The End
+</description>
         <pubDate>Sat, 10 Jan 2009 13:23:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/recent-posts</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/recent-posts</guid>
@@ -1411,7 +1462,7 @@
     
       <item>
         <title>Featured Posts</title>
-        <description>&lt;p&gt;&amp;#160;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://www.p-bhatt.com/2009/03/uploading-files-to-ftp-server-using.html&quot;&gt;Uploading files to FTP server using ASP.Net&lt;/a&gt;. (using FileUpload Server Control) &lt;/p&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.p-bhatt.com/2009/02/what-is-minified-javascript.html&quot;&gt;What is minified JavaScript?&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.p-bhatt.com/2009/02/using-jquery-ui-theme-in-bloggercom.html&quot;&gt;Using jQuery UI Theme in Blogger/Blogspot&lt;/a&gt;. &lt;/li&gt;...</description>
+        <description>&amp;#160; Uploading files to FTP server using ASP.Net. (using FileUpload Server Control) What is minified JavaScript? Using jQuery UI Theme in Blogger/Blogspot. Tools &amp;amp; Utilities for developers. Common JavaScript Utilities....</description>
         <pubDate>Sat, 10 Jan 2009 09:31:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/featured-posts</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/featured-posts</guid>
@@ -1423,12 +1474,12 @@
     
       <item>
         <title>Tech-News</title>
-        <description>&lt;p&gt;Welcome to Tech-News. Click on the topic to access the latest news feeds :&lt;/p&gt;
-&lt;p&gt;Microsoft.Net&lt;/p&gt;
-&lt;p&gt;ASP.Net&lt;/p&gt;
-&lt;p&gt;C#&lt;/p&gt;
-&lt;p&gt;Visual Basic&lt;/p&gt;
-&lt;p&gt;SilverLight&lt;/p&gt;
+        <description>Welcome to Tech-News. Click on the topic to access the latest news feeds :
+Microsoft.Net
+ASP.Net
+C#
+Visual Basic
+SilverLight
 </description>
         <pubDate>Fri, 09 Jan 2009 16:17:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/tech-news</link>
@@ -1441,7 +1492,7 @@
     
       <item>
         <title>Disclaimer</title>
-        <description>&lt;p&gt;Following is the Disclaimer/Terms of Use for all of the following websites and contents there in: &lt;/p&gt; &lt;ul&gt; &lt;li&gt;Learning-Leisure.net (&lt;a href=&quot;http://www.learning-leisure.net/&quot;&gt;http://www.Learning-Leisure.net&lt;/a&gt;) &lt;/li&gt; &lt;li&gt;Learning-Leisrue || LMS || (&lt;a href=&quot;http://www.learning-leisure.net/moodle&quot;&gt;http://www.Learning-Leisure.net/moodle&lt;/a&gt;) &lt;/li&gt; &lt;li&gt;Learning-Leisrue.com...</description>
+        <description>Following is the Disclaimer/Terms of Use for all of the following websites and contents there in: Learning-Leisure.net (http://www.Learning-Leisure.net) Learning-Leisrue || LMS || (http://www.Learning-Leisure.net/moodle) Learning-Leisrue.com (http://www.Learning-Leisure.com) Pinal Bhatt&#39;s Blog (http://www.P-Bhatt.com) Please...</description>
         <pubDate>Fri, 09 Jan 2009 16:17:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/disclaimer</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/disclaimer</guid>
@@ -1453,7 +1504,7 @@
     
       <item>
         <title>Umbraco Downloads</title>
-        <description>&lt;p&gt;Below are few important downloads for the utilities that i have developed for Umbraco for my site &lt;a href=&quot;http://www.pbddeskl.com/&quot;&gt;www.PBdDeskl.com&lt;/a&gt;. &lt;/p&gt;
+        <description>Below are few important downloads for the utilities that i have developed for Umbraco for my site www.PBdDeskl.com. 
 </description>
         <pubDate>Fri, 09 Jan 2009 16:16:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/umbraco-downloads</link>
@@ -1514,7 +1565,7 @@
     
       <item>
         <title>Pinal Bhatt</title>
-        <description>&lt;table style=&quot;margin-top: 0px&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td style=&quot;background-color: #ffffff; width: 180px&quot; align=&quot;center&quot;&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt;&lt;/div&gt; &lt;/p&gt;&lt;/div&gt; &lt;div&gt;&lt;span style=&quot;line-height: 1.5em; color: navy; font-size: 11px&quot;&gt;&lt;span&gt;Male / 34 Years /...</description>
+        <description>Male / 34 Years / Married Software Engineer (Microsoft.Net) New York, USA Url : www.P-Bhatt.com Email : self@P-Bhatt.com pinalbhatt@gmail.com pinal-bhatt@live.com IMs : pinalbhatt(google) pinalbhatt(skype) pinalbhatt(yahoo) My Favorites: Movies Music Books...</description>
         <pubDate>Fri, 09 Jan 2009 15:14:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/pinal-bhatt</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/pinal-bhatt</guid>
@@ -1526,7 +1577,33 @@
     
       <item>
         <title>Search</title>
-        <description>&lt;p&gt;&lt;!-- SiteSearch Google Start --&gt;&lt;/p&gt; &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot; border=&quot;0&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td valign=&quot;top&quot; nowrap=&quot;nowrap&quot; align=&quot;left&quot; height=&quot;32&quot;&gt; &lt;a href=&quot;http://www.google.com/&quot;&gt;&lt;img alt=&quot;Google&quot; src=&quot;assets/Logo_25wht.gif&quot; align=&quot;middle&quot; border=&quot;0&quot; /&gt; &lt;/a&gt; &lt;/td&gt; &lt;td nowrap=&quot;nowrap&quot;&gt; &lt;/td&gt; &lt;/tr&gt;...</description>
+        <description>
+
+
+
+
+                 
+            
+
+
+
+
+
+
+
+
+
+ Web
+pinal-bhatt.blogspot.com
+
+
+
+
+
+
+
+         
+</description>
         <pubDate>Fri, 09 Jan 2009 15:13:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/search</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/search</guid>
@@ -1538,7 +1615,7 @@
     
       <item>
         <title>Pinal Bhatt’s Blog</title>
-        <description>&lt;p&gt;&lt;strong&gt;Learning endeavour for ever.............&lt;/strong&gt;.&lt;/p&gt; &lt;table cellspacing=&quot;10&quot; cellpadding=&quot;5&quot; width=&quot;100%&quot; border=&quot;0&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td valign=&quot;top&quot; width=&quot;50%&quot;&gt; &lt;p align=&quot;justify&quot;&gt;&lt;a href=&quot;http://lh5.ggpht.com/__Au1zuguDlE/SWafdC5GdAI/AAAAAAAAAsg/q2coux_rauQ/s1600-h/MyPic%5B5%5D.jpg&quot;&gt;&lt;span style=&quot;font-family:Tahoma;font-size:85%;&quot;&gt;&lt;img title=&quot;MyPic&quot; style=&quot;border-right: 0px; border-top: 0px; display: inline; margin: 0px 15px 15px 0px;...</description>
+        <description>Learning endeavour for ever.............. Welcome to my own Blog! On this site you&#39;ll find interesting posts and links on Microsoft.Net, ASP.NET, C#, VB.Net, Silverlight, Design Patterns and other random thoughts...</description>
         <pubDate>Wed, 07 Jan 2009 20:43:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/pinal-bhatts-blog</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/pinal-bhatts-blog</guid>
@@ -1550,7 +1627,7 @@
     
       <item>
         <title></title>
-        <description>&lt;p&gt;&lt;img style=&quot;width: 599px; height: 62px;&quot; src=&quot;assets/File?id=dg9zzwp6_277hf35gj&quot; /&gt; &lt;div style=&quot;text-align: center;&quot;&gt;An learning endeavour from Pinal Bhatt (&lt;a title=&quot;Email Me&quot; href=&quot;mailto:pinal-bhatt@live.com&quot;&gt;pinal-bhatt@live.com&lt;/a&gt;).&lt;/div&gt; &lt;div&gt; &lt;table style=&quot;width: 663px; height: 286px;&quot; border=&quot;0&quot; cellpadding=&quot;3&quot; cellspacing=&quot;0&quot; height=&quot;100%&quot; width=&quot;100%&quot;&gt;...</description>
+        <description>An learning endeavour from Pinal Bhatt (pinal-bhatt@live.com). ARNAV Presentswww.Learning-Leisure.com C# 3.0 BootCamp C# 3.0 Advanced LINQ with C# 3.0 &amp;lt;Articles /&amp;gt; Coding Standards &amp;amp; Practices for .Net C# vs VB...</description>
         <pubDate>Thu, 01 Jan 2009 16:40:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/101</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/101</guid>
@@ -1562,7 +1639,7 @@
     
       <item>
         <title>Abstract Class vs Interface</title>
-        <description>&lt;p&gt;Introduction&lt;/p&gt;&lt;/p&gt; &lt;p&gt;In this article I am going to compare &amp;amp; contrast Abstract Class and Interface in radiance of .Net programming languages - VB and C#.  In OOPS, these concepts are...</description>
+        <description>Introduction In this article I am going to compare &amp;amp; contrast Abstract Class and Interface in radiance of .Net programming languages - VB and C#.  In OOPS, these concepts are...</description>
         <pubDate>Sun, 16 Nov 2008 18:16:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/abstract-class-vs-interface</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/abstract-class-vs-interface</guid>
@@ -1574,7 +1651,7 @@
     
       <item>
         <title>RSS Feeds &amp; LINQ to XML</title>
-        <description>&lt;p&gt;Linq to xml for reading rss feeds&lt;/p&gt;
+        <description>Linq to xml for reading rss feeds
 </description>
         <pubDate>Sun, 16 Nov 2008 18:14:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/rss-feeds-linq-to-xml</link>
@@ -1587,7 +1664,7 @@
     
       <item>
         <title>Coding Standards &amp; Practices for .Net</title>
-        <description>&lt;p&gt;Coding Standards &amp;amp; Practices for .Net &lt;/p&gt;
+        <description>Coding Standards &amp;amp; Practices for .Net 
 </description>
         <pubDate>Sun, 16 Nov 2008 18:14:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/coding-standards-practices-for-net</link>
@@ -1600,7 +1677,7 @@
     
       <item>
         <title>C# vs VB</title>
-        <description>&lt;p&gt;Here is an article for comparing and contrasting the two most powerful and most popular .Net languages C# and Visual Basic &lt;/p&gt;
+        <description>Here is an article for comparing and contrasting the two most powerful and most popular .Net languages C# and Visual Basic 
 </description>
         <pubDate>Sun, 16 Nov 2008 18:14:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/c-vs-vb</link>
@@ -1613,7 +1690,7 @@
     
       <item>
         <title>Abstract Factory Design Pattern</title>
-        <description>&lt;p&gt;Abstract Factory &lt;br /&gt;&amp;#160; Creates an instance of several families of classes&lt;/p&gt; &lt;p&gt;&lt;a name=&quot;INTRO&quot;&gt;&lt;u&gt;Introduction&lt;/u&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;something goes heresfsdfsdf&lt;/p&gt; &lt;p&gt;ds&lt;/p&gt; &lt;p&gt;f&lt;/p&gt; &lt;p&gt;sdf&lt;/p&gt; &lt;p&gt;ds&lt;/p&gt; &lt;p&gt;fsd&lt;/p&gt; &lt;p&gt;&lt;a name=&quot;DEF&quot;&gt;&lt;u&gt;Definition&lt;/u&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;something goes here&lt;/p&gt; &lt;p&gt;asdf&lt;/p&gt; &lt;p&gt;sd&lt;/p&gt; &lt;p&gt;fd&lt;/p&gt;...</description>
+        <description>Abstract Factory &amp;#160; Creates an instance of several families of classes Introduction something goes heresfsdfsdf ds f sdf ds fsd Definition something goes here asdf sd fd sf Class Diagram...</description>
         <pubDate>Sun, 16 Nov 2008 18:12:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/design%20patterns/abstract-factory-design-pattern</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/design%20patterns/abstract-factory-design-pattern</guid>
@@ -1625,7 +1702,7 @@
     
       <item>
         <title>Prototype Design Pattern</title>
-        <description>&lt;p&gt;Prototype    &lt;br /&gt;&amp;#160; A fully initialized instance to be copied or cloned&lt;/p&gt;
+        <description>Prototype    &amp;#160; A fully initialized instance to be copied or cloned
 </description>
         <pubDate>Sun, 16 Nov 2008 18:10:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/design%20patterns/prototype-design-pattern</link>
@@ -1638,7 +1715,7 @@
     
       <item>
         <title>Factory Method Design Pattern</title>
-        <description>&lt;p&gt;Factory Method    &lt;br /&gt;&amp;#160; Creates an instance of several derived classes&lt;/p&gt;
+        <description>Factory Method    &amp;#160; Creates an instance of several derived classes
 </description>
         <pubDate>Sun, 16 Nov 2008 18:10:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/design%20patterns/factory-method-design-pattern</link>
@@ -1651,7 +1728,7 @@
     
       <item>
         <title>Builder Design Pattern</title>
-        <description>&lt;p&gt;Builder    &lt;br /&gt;&amp;#160; Separates object construction from its representation&lt;/p&gt;
+        <description>Builder    &amp;#160; Separates object construction from its representation
 </description>
         <pubDate>Sun, 16 Nov 2008 18:10:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/design%20patterns/builder-design-pattern</link>
@@ -1664,7 +1741,7 @@
     
       <item>
         <title>Singleton Design Pattern</title>
-        <description>&lt;p&gt;Singleton    &lt;br /&gt;&amp;#160; A class of which only a single instance can exist&lt;/p&gt;
+        <description>Singleton    &amp;#160; A class of which only a single instance can exist
 </description>
         <pubDate>Sun, 16 Nov 2008 18:09:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/design%20patterns/singleton-design-pattern</link>
@@ -1677,7 +1754,7 @@
     
       <item>
         <title>Adapter Design Pattern</title>
-        <description>&lt;p&gt;Adapter    &lt;br /&gt;&amp;#160; Match interfaces of different classes&lt;/p&gt;
+        <description>Adapter    &amp;#160; Match interfaces of different classes
 </description>
         <pubDate>Sun, 16 Nov 2008 18:08:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/design%20patterns/adapter-design-pattern</link>
@@ -1690,7 +1767,28 @@
     
       <item>
         <title>Krishna Songs for my little sweet heart Tanaya</title>
-        <description>&lt;h4 align=&quot;left&quot;&gt;Chhoti Chhoti Gaiya&lt;/h4&gt; &lt;p align=&quot;center&quot;&gt; &lt;p&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; &lt;/p&gt;&lt;/p&gt; &lt;div style=&quot;padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px&quot;&gt; &lt;div&gt;&lt;object width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/m6N5EpJZDmc&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;embed...</description>
+        <description>Chhoti Chhoti Gaiya
+
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; 
+
+
+
+&amp;#160;
+Door nagri re badi door nagri 
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; 
+
+
+
+&amp;#160;
+JAY SHREE KRISHNA KEVA NI MANE TEV PADI
+&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; 
+
+
+
+
+&amp;#160;
+new
+</description>
         <pubDate>Sat, 15 Nov 2008 12:55:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/personal/krishna-songs-for-my-little-sweet-heart-tanaya</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/personal/krishna-songs-for-my-little-sweet-heart-tanaya</guid>
@@ -1702,10 +1800,10 @@
     
       <item>
         <title>Krishna Songs for my little sweet heart Tanaya</title>
-        <description>&lt;p&gt;&amp;#160;&lt;/p&gt;&lt;/p&gt;
-&lt;div style=&quot;padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px&quot;&gt;
-&lt;div&gt;&lt;object width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/1jMm76N3EO4&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;&lt;embed src=&quot;http://www.youtube.com/v/1jMm76N3EO4&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
-&lt;/div&gt;
+        <description>&amp;#160;
+
+
+
 </description>
         <pubDate>Sat, 15 Nov 2008 12:37:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/krishna-songs-for-my-little-sweet-heart-tanaya-2</link>
@@ -1718,7 +1816,7 @@
     
       <item>
         <title>Abstract Class vs Interface</title>
-        <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt; &lt;p&gt;In this article I am going to compare &amp;amp; contrast Abstract Class and Interface in radiance of .Net programming languages - VB and C#.&amp;#160; In OOPS, these concepts are...</description>
+        <description>Introduction In this article I am going to compare &amp;amp; contrast Abstract Class and Interface in radiance of .Net programming languages - VB and C#.&amp;#160; In OOPS, these concepts are...</description>
         <pubDate>Sat, 15 Nov 2008 00:00:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/abstract-class-vs-interface-2</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/abstract-class-vs-interface-2</guid>
@@ -1742,11 +1840,11 @@
     
       <item>
         <title>My Links</title>
-        <description>&lt;p&gt;My Site : &lt;a href=&quot;http://www.pinal-bhatt.com/&quot;&gt;www.pinal-bhatt.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Learning-Leisure : &lt;a href=&quot;http://www.learning-leisure.com/&quot;&gt;www.Learning-Leisure.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;My Blogs:&lt;/p&gt;
-&lt;p&gt;@Live : &lt;a title=&quot;http://pinal-bhatt.spaces.live.com&quot; href=&quot;http://pinal-bhatt.spaces.live.com/&quot;&gt;http://pinal-bhatt.spaces.live.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;@BlogSpot : &lt;a title=&quot;http://pinal-bhatt.blogspot.com&quot; href=&quot;http://pinal-bhatt.blogspot.com/&quot;&gt;http://pinal-bhatt.blogspot.com&lt;/a&gt;&lt;/p&gt;
+        <description>My Site : www.pinal-bhatt.com
+Learning-Leisure : www.Learning-Leisure.com
+My Blogs:
+@Live : http://pinal-bhatt.spaces.live.com
+@BlogSpot : http://pinal-bhatt.blogspot.com
 </description>
         <pubDate>Sat, 25 Oct 2008 11:30:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/programming/my-links</link>
@@ -1795,7 +1893,7 @@
     
       <item>
         <title>C# : String utility code snippets</title>
-        <description>&lt;p&gt;Below are the common utilities / code snippets often required while working with strings. I have written them as static functions.&amp;#160; [C# 3.0]&lt;/p&gt; &lt;h2&gt;StripHtml&lt;/h2&gt; &lt;p align=&quot;justify&quot;&gt;C# function to strip Html...</description>
+        <description>Below are the common utilities / code snippets often required while working with strings. I have written them as static functions.&amp;#160; [C# 3.0] StripHtml C# function to strip Html tags...</description>
         <pubDate>Sun, 09 Mar 2008 07:51:00 -0400</pubDate>
         <link>http://blog.pbdesk.io/.net/c-string-utility-code-snippets</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-string-utility-code-snippets</guid>
@@ -1807,7 +1905,7 @@
     
       <item>
         <title>Generic methods to read value from DataReader</title>
-        <description>&lt;p&gt;Reading a value from DataReader is one of the most often and repetitive task for programmers working on database project. Here are the generic methods to make this work easy:&lt;/p&gt;...</description>
+        <description>Reading a value from DataReader is one of the most often and repetitive task for programmers working on database project. Here are the generic methods to make this work easy:...</description>
         <pubDate>Fri, 07 Mar 2008 12:43:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/generic-methods-to-read-value-from-datareader</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/generic-methods-to-read-value-from-datareader</guid>
@@ -1819,7 +1917,7 @@
     
       <item>
         <title>ABC&#39;s Of C#</title>
-        <description>&lt;div&gt;&lt;a name=&quot;Top&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;table bordercolor=&quot;#33ccff&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot; border=&quot;1&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td width=&quot;25%&quot;&gt; &lt;div style=&quot;PADDING-RIGHT: 0pt; PADDING-LEFT: 0pt; PADDING-BOTTOM: 1em; PADDING-TOP: 1em; TEXT-ALIGN: left&quot;&gt;&lt;img style=&quot;WIDTH: 150px; HEIGHT: 69px&quot; src=&quot;assets/File?id=dg9zzwp6_54hrr3g9d6&quot; /&gt;...</description>
+        <description>ABC&#39;s Of C# Objectives: Understanding Variables, Constants, Operators and Expressions in C# Basic Data Types in C# This session of iWorkshop covers: Lesson 1 : Your first handshape with C#...</description>
         <pubDate>Fri, 07 Mar 2008 07:51:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/abcs-of-c</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/abcs-of-c</guid>
@@ -1831,7 +1929,7 @@
     
       <item>
         <title>Introduction to the C# Programming Language</title>
-        <description>&lt;div&gt;&lt;a name=&quot;Top&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; bordercolor=&quot;#33ccff&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td width=&quot;25%&quot;&gt; &lt;h1 align=&quot;center&quot;&gt;PCSI Training 2009&lt;/h1&gt; &lt;/td&gt; &lt;td bgcolor=&quot;#ffffcc&quot; valign=&quot;middle&quot; width=&quot;75%&quot; align=&quot;center&quot;&gt; &lt;h3&gt;&lt;a href=&quot;http://blog.pbdesk.com/#week1&quot;&gt;Week#1&lt;/a&gt;&amp;#160; &lt;a href=&quot;http://blog.pbdesk.com/#week2&quot;&gt;Week#2&lt;/a&gt;&lt;/h3&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;...</description>
+        <description>PCSI Training 2009 Week#1&amp;#160; Week#2 Start Date : 21st March 2009. 21-23 Mat/2009 Week#1 C# Practical Learning 01 : Introduction to C# 02 : Introduction to Variables 03 : Using...</description>
         <pubDate>Fri, 29 Feb 2008 13:05:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/introduction-to-the-c-programming-language</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/introduction-to-the-c-programming-language</guid>
@@ -1857,7 +1955,7 @@
     
       <item>
         <title>C# : Enum – Tricks &amp; Tips</title>
-        <description>&lt;p align=&quot;justify&quot;&gt;This is not a beginners tutorial for concept of Enum. Its is assumed that you are aware of the basic concepts of enum. Here I am presenting few advance...</description>
+        <description>This is not a beginners tutorial for concept of Enum. Its is assumed that you are aware of the basic concepts of enum. Here I am presenting few advance level...</description>
         <pubDate>Wed, 20 Feb 2008 12:23:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/.net/c-enum-tricks-tips</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/.net/c-enum-tricks-tips</guid>
@@ -1881,7 +1979,7 @@
     
       <item>
         <title>Comparing &amp; Contrasting : Abstract Class Vs Interface</title>
-        <description>&lt;p&gt;Abstract Class Vs Interface&lt;/p&gt;
+        <description>Abstract Class Vs Interface
 </description>
         <pubDate>Fri, 08 Feb 2008 07:18:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/comparing-contrasting-abstract-class-vs-interface</link>
@@ -1894,7 +1992,7 @@
     
       <item>
         <title>Comparing &amp; Contrasting : C# Vs VB</title>
-        <description>&lt;p&gt;Comparing and contrasting C# Vs VB in radiance of .Net :&lt;/p&gt;
+        <description>Comparing and contrasting C# Vs VB in radiance of .Net :
 </description>
         <pubDate>Fri, 08 Feb 2008 07:11:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/comparing-contrasting-c-vs-vb</link>
@@ -1919,10 +2017,10 @@
     
       <item>
         <title>Search</title>
-        <description>&lt;p&gt;&lt;!-- Google Search Result Snippet Begins --&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Google Search Result Snippet Ends --&gt;
-&lt;p&gt;&lt;a href=&quot;http://blog.pbdesk.com/#&quot;&gt;test&lt;/a&gt;&lt;/p&gt;
+        <description>
+
+
+test
 </description>
         <pubDate>Thu, 27 Dec 2007 07:52:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/search-2</link>
@@ -1935,7 +2033,7 @@
     
       <item>
         <title>Common JavaScript Utilities</title>
-        <description>&lt;p style=&quot;padding-left: 20px&quot;&gt;Common JavaScript utilities/functions/code:&lt;/p&gt;
+        <description>Common JavaScript utilities/functions/code:
 </description>
         <pubDate>Wed, 19 Dec 2007 17:51:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/common-javascript-utilities</link>
@@ -1948,7 +2046,7 @@
     
       <item>
         <title>.Net Learning Curve</title>
-        <description>&lt;p style=&quot;margin-left: 0.5in;&quot;&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/p&gt; &lt;table style=&quot;border: medium none ; width: 6.75in; margin-left: 0pt; border-collapse: collapse;&quot; border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;648&quot;&gt; &lt;tbody&gt; &lt;tr style=&quot;&quot;&gt; &lt;td colspan=&quot;4&quot; style=&quot;border: 1pt solid rgb(153, 51, 0);...</description>
+        <description>Beginner Level Foundation Language C# 3.0 VB 9.0 - Variables, Constants, Expressions &amp;amp; Programming Constructs - DataTypes, Structures, Enums, - Arrays &amp;amp; Collections - OOP – Classes : Fields, Methods,...</description>
         <pubDate>Fri, 14 Dec 2007 17:31:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/net-learning-curve</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/net-learning-curve</guid>
@@ -1960,7 +2058,7 @@
     
       <item>
         <title>Standards &amp; Practices for Software Development (.Net)</title>
-        <description>&lt;p&gt;The objective of this blog is to provide software engineers(developers and architectures) with standards and practices for software development. It includes code naming conventions, best prectices for coding,general requirements and...</description>
+        <description>The objective of this blog is to provide software engineers(developers and architectures) with standards and practices for software development. It includes code naming conventions, best prectices for coding,general requirements and...</description>
         <pubDate>Fri, 14 Dec 2007 16:15:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/programming/standards-practices-for-software-development-net</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/programming/standards-practices-for-software-development-net</guid>
@@ -1972,7 +2070,7 @@
     
       <item>
         <title>My Delicious Bookmarks</title>
-        <description>&lt;blockquote&gt; &lt;p&gt;Once upon a time I was using Delicio.us for saving my bookmarks but I no longer use it so this page is empty now. &lt;/p&gt; &lt;small&gt;Updated by Webmaster on...</description>
+        <description>Once upon a time I was using Delicio.us for saving my bookmarks but I no longer use it so this page is empty now. Updated by Webmaster on 13th Dec,...</description>
         <pubDate>Thu, 13 Dec 2007 15:08:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/archive/my-delicious-bookmarks-2</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/archive/my-delicious-bookmarks-2</guid>
@@ -1984,7 +2082,7 @@
     
       <item>
         <title>JavaScript Utilities</title>
-        <description>&lt;div&gt; &lt;div&gt;Latest Download&lt;/div&gt; &lt;div&gt;Project: JavaScript Utils&lt;/div&gt; &lt;div&gt;Version : 1.0&lt;/div&gt; &lt;div&gt;Date: 14/Dec/2010&lt;/div&gt; &lt;div&gt;URL:&amp;#160; //&lt;a href=&quot;http://pbjsutils.codeplex.com/&quot;&gt;http://pbjsutils.codeplex.com/&lt;/a&gt;&lt;/div&gt; &lt;div&gt;Download:&amp;#160; &lt;a href=&quot;http://pbjsutils.codeplex.com/releases/view/56719&quot;&gt;http://pbjsutils.codeplex.com/releases/view/56719&lt;/a&gt;&lt;/div&gt; &lt;/p&gt;&lt;/div&gt; &lt;p&gt;&amp;#160;&lt;/p&gt; &lt;h2&gt;Version 1.0&lt;/h2&gt; &lt;h4&gt;String Utilites&amp;#160;&amp;#160; &lt;/h4&gt; &lt;ul&gt; &lt;li&gt;stripHTML(originalStr) &lt;/li&gt; &lt;li&gt;stripHTML(originalStr, replacerStr) &lt;/li&gt;...</description>
+        <description>Latest Download Project: JavaScript Utils Version : 1.0 Date: 14/Dec/2010 URL:&amp;#160; //http://pbjsutils.codeplex.com/ Download:&amp;#160; http://pbjsutils.codeplex.com/releases/view/56719 &amp;#160; Version 1.0 String Utilites&amp;#160;&amp;#160; stripHTML(originalStr) stripHTML(originalStr, replacerStr) isValidEmail(sText) isValidUrl(originalStr) isEmpty(text) stripHTMLAndTrim(text) trim() ltrim() rtrim() format()...</description>
         <pubDate>Thu, 13 Dec 2007 15:08:00 -0500</pubDate>
         <link>http://blog.pbdesk.io/javascript/javascript-utilities</link>
         <guid isPermaLink="true">http://blog.pbdesk.io/javascript/javascript-utilities</guid>
