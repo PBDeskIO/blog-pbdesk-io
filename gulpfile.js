@@ -176,7 +176,7 @@ gulp.task("Push-To-GhPages", function(callback){
         ["optimize-css","optimize-js"],
         "jekyll:dev",
         "optimize-html",
-      //  "deploy",
+         "deploy",
         callback
     );
 
