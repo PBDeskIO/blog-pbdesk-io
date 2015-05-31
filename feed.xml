@@ -5,8 +5,8 @@
     <description>Learning endeavor for ever...from the desk of Pinal Bhatt | blog.PBDesk.io</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2015 14:03:44 -0400</pubDate>
-    <lastBuildDate>Fri, 29 May 2015 14:03:44 -0400</lastBuildDate>
+    <pubDate>Sun, 31 May 2015 00:12:59 -0400</pubDate>
+    <lastBuildDate>Sun, 31 May 2015 00:12:59 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -213,6 +213,8 @@ Tweets about #NodeJS from:PBDesk
         <link>localhost:4000/nodejs/nodejs-news-update</link>
         <guid isPermaLink="true">localhost:4000/nodejs/nodejs-news-update</guid>
         
+        <category>NodeJS</category>
+        
         
         <category>nodejs</category>
         
@@ -231,16 +233,20 @@ Tweets about #NodeJS from:PBDesk
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>You&amp;rsquo;ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes! To add new posts, simply add...</description>
+        <title>Objective-C Succinctly</title>
+        <description>test</description>
         <pubDate>Mon, 03 Mar 2014 00:00:00 -0500</pubDate>
-        <link>localhost:4000/ebooks/jekyll/welcome-to-jekyll</link>
-        <guid isPermaLink="true">localhost:4000/ebooks/jekyll/welcome-to-jekyll</guid>
+        <link>localhost:4000/ebooks/programming/Succinctly-Objective-C</link>
+        <guid isPermaLink="true">localhost:4000/ebooks/programming/Succinctly-Objective-C</guid>
+        
+        <category>Objective-c</category>
+        
+        <category>eBook</category>
         
         
         <category>ebooks</category>
         
-        <category>jekyll</category>
+        <category>programming</category>
         
       </item>
     

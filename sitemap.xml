@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>localhost:4000/</loc>
-    <lastmod>2015-05-29T14:03:44-04:00</lastmod>
+    <lastmod>2015-05-31T00:12:59-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -177,7 +177,7 @@
     </url>
   
     <url>
-      <loc>localhost:4000/ebooks/jekyll/welcome-to-jekyll</loc>
+      <loc>localhost:4000/ebooks/programming/Succinctly-Objective-C</loc>
       
         <lastmod>2014-03-03T00:00:00-05:00</lastmod>
       
@@ -2089,6 +2089,591 @@
   </url>
   
   <url>
+    <loc>localhost:4000/tag/CSharp/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/TechNews/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/DotNet/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/eBook/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Windows8/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/jQuery/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/DotNet45/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/SQLite/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/ASP.Net/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/EntityFramework/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Microsoft/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/MVC/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/VisualStudio/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/WebAPI/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/code%20snippet/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/gist/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/JavaScript/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/AngularJS/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/PBDesk/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Umbraco/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Objective-c/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/NodeJS/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Express/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Jade/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/NTVS/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/VS2013/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Programming/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/CodeSnippet/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/MVC6/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Jekyll/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/MyProject/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/HTML5/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/tag/Tutorial/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/Google-Sci-Tech-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/Yahoo-Science-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/Yahoo-Technology-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/CNET-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/ASPNet/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/C-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/VBNet-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/F-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/VC-Updates/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/Channel-9/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/ASPNet-Community-Events/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>localhost:4000/TechNews/ASPNet-Community-News/index.html</loc>
+    
+      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
     <loc>localhost:4000/archive/index.html</loc>
     
       <lastmod>2015-04-22T02:00:01-04:00</lastmod>
@@ -2467,578 +3052,6 @@
   
   <url>
     <loc>localhost:4000/tutorial/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/CSharp/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/TechNews/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/DotNet/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/eBook/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Windows8/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/jQuery/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/DotNet45/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/SQLite/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/ASP.Net/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/EntityFramework/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Microsoft/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/MVC/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/VisualStudio/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/WebAPI/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/code%20snippet/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/gist/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/JavaScript/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/AngularJS/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/PBDesk/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Umbraco/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Express/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Jade/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/NodeJS/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/NTVS/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/VS2013/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Programming/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/CodeSnippet/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/MVC6/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Jekyll/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/MyProject/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/HTML5/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/tag/Tutorial/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/Google-Sci-Tech-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/Yahoo-Science-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/Yahoo-Technology-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/CNET-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/ASPNet/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/C-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/VBNet-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/F-News/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/VC-Updates/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/Channel-9/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/ASPNet-Community-Events/index.html</loc>
-    
-      <lastmod>2015-04-22T02:00:01-04:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>localhost:4000/TechNews/ASPNet-Community-News/index.html</loc>
     
       <lastmod>2015-04-22T02:00:01-04:00</lastmod>
     
